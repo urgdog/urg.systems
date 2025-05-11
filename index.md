@@ -10,10 +10,6 @@ Purely unafilliated with anything, responsible for nothing and everything.
 
 There's a lot of things to worry about.
 
-## Stuff.
 
-- [Notes & Thoughts](/notes/)
-- [Doings & Messes](/projects/)
-
----
+[Notes & Thoughts](/notes/) | [Doings & Messes](/projects/)
 
