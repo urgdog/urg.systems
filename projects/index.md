@@ -12,5 +12,5 @@ One day I'll get it all sorted out and I can do nothing for real.
 
 ## Posts
 
-- [A placeholder of holding](placeholder)
+- [A placeholder of holding](placeholder.md)
 

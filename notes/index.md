@@ -11,5 +11,5 @@ What it says on the tin.
 
 ## Posts
 
-- [A placeholder of holding](placeholder)
+- [A placeholder of holding](placeholder.md)
 
