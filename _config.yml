@@ -1,0 +1,8 @@
+### _config.yml
+title: URG.SYSTEMS
+description: Distributed Ops, Infra Lore, and Occasional Rants
+markdown: kramdown
+theme: minima
+baseurl: ""
+permalink: pretty
+
