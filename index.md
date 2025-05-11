@@ -15,5 +15,4 @@ There's a lot of things to worry about.
 ---
 
 © URG
-ask me to teamviewer you through a cell while you sit on a bucket in a basement with rats.
 
