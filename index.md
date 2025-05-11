@@ -7,10 +7,8 @@ There's a lot of things to worry about.
 
 ## Stuff.
 
-- [Tech Stuff](/notes/)
-- [Doings](/projects/)
-- [Thoughts](/thoughts/)
-- [GitHub](https://github.com/urgdog)
+- [Notes & Thoughts](/notes/)
+- [Doings & Messes](/projects/)
 
 ---
 
