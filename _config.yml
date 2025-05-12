@@ -1,8 +1,31 @@
-### _config.yml
-title: URG.SYSTEMS
-description: Distributed Ops, Infra Lore, and Occasional Rants
-markdown: kramdown
+title: urg.systems
+email: greg@urg.systems
+description: >-
+  Infrastructure notes, lab experiments, and real-world postmortems. No fluff.
+baseurl: "" # leave blank unless you host from a subdirectory
+url: "https://urg.systems"
+author: G
+
 theme: minima
-baseurl: ""
-permalink: pretty
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+# Show excerpts on the homepage
+excerpt_separator: <!--more-->
+
+# Clean up unnecessary metadata defaults
+twitter_username: ""
+github_username: ""
+
+# Optional: clean up default output
+exclude:
+  - README.md
+  - node_modules/
+  - vendor/
+  - .jekyll-cache/
+  - Gemfile
+  - Gemfile.lock
 
