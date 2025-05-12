@@ -44,5 +44,6 @@ Checkmate.
 ---
 
 Want to talk some gritty details about how to get a serial number on a sticker in a basement associated
-with software on that box without going there and looking at the sticker? [greg@urg.systems](mailto:greg@urg.systems)
+with software on that box without going there and looking at the sticker? Oh, btw the serial number
+is not loaded anywhere in the software. Intrigued? [greg@urg.systems](mailto:greg@urg.systems)
 
