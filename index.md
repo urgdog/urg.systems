@@ -23,4 +23,4 @@ Mostly, this is a place for the things too real or weird to go anywhere else.
 ---
 - [Projects](/projects/) - Things I've built, broken, or debugged all in name of progress. Slightly more polished.
 - [Notes & Thoughts](/notes/) - Unhinged goblin energy. Tread carefully.
-- Field Stories - Not yet built. When it is, some real chaotic energy will come out of here.
+- Field Stories - Not yet built. When it is, some real chaos will come out of here.
