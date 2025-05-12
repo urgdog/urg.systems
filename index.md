@@ -16,7 +16,7 @@ Maybe you're just wandering. Maybe you had a typo. Either way:
 There are stories and insights here, and a few failures. You may even find a small sliver of wisdom.
 Mostly, this is a place for the things too real or weird to go anywhere else.
 
-> *Unafilliated with anything. Responsible for nothing and everything.*
+> *Unaffiliated with anything. Responsible for nothing and everything.*
 
 > *There's a lot of things to worry about.*
 
