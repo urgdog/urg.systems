@@ -36,5 +36,3 @@ reports that it can't read the very USB that it used to launch the code it's usi
 
 I regret to inform you I have no clarity on why this works — but it did.
 So if you're stuck: try a different USB brand. It's dumb, but it's Windows.
-
--G

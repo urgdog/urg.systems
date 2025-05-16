@@ -1,49 +1,56 @@
 ---
-title: Building Zero-Touch Provisioning for Hardware That Didn't Want It
+title: Zero-Touch Provisioning for Spiteful Vendors
 date: 2025-05-11
 layout: default
 ---
 
-# Building Zero-Touch Provisioning for Hardware That Didn't Want It
+# Zero-Touch Provisioning for Spiteful Vendors
 
-Infrastructure automation only succeeds when it accounts for the reality of field conditions,
-not idealized workflows. This post explains how I build a scalable Zero-Touch Provisioning (ZTP)
-platform for hostile, inconsistent hardware across dozens of vendors- and why the solution 
-had more to do with aligning the tech with business than any sort of specific tooling.
+So, Zero-Touch Provisioning- wonderful idea when the vendor actually wants it.
 
----
+This isn't that. This is a journey to the land of hostile hardware that would
+sooner emit its secret magic smoke than ask for a DHCP lease. I won't
+name names.
 
-Zero-Touch Provisioning is great- you spin up a DHCP server, some TFTP, make your golden configs.
-In theory, this lets you plumb together all your business systems and it'll all just work.
+So, as you may know, most ZTP deployment guides are written for
+someone discovering Linux for the first time.
 
-Except not all gear supports this type of integration.
+> "My first Linux: deploy `isc-dhcpd`, a TFTP server, and
+some config files and firmware files, etc."
 
-I've had to scale hardware that actively resists this automation- no DHCP on boot,
-unpredictable reset buttons, vendor responses that border on comedy gold.
+I appreciate the guidance, but `isc-dhcpd` was EOL in 2022 and TFTP over
+PTMP RF? I can DoS my own network without your help, thank you.
 
-These deployments don't scale when your techs are sitting on a bucket in a basement 
-asking for help via a cell-powered teamviewer connection. In all honesty, that's how it started.
+And those are the "good" ones. At least with that I know there's something
+I can work with.
 
-So, we built a system that controlled for this 'hostile gear'- watching MAC tables, ARP spoofs,
-config injection reboot and pray (why did that one take 3 minutes and not 1?) Some of it was fragile,
-some of it turned out way more robust than I could have expected. Integrating the business into a
-ZTP platform with this equipment, where the state could be unknown was a wild ride.
+What I'm talking about are the ones that need to work at massive scale, and
+have aspects of technological cryptozoology like:
 
-At the end of this, we got a tremendous amount of optimization done using the custom ZTP bootstrapping
-and processes we built.
+> No DHCP on any interface, even after reset
+> A "factory reset" button that... just reboots.
+> Serial numbers on stickers only. Not in software.
+> and of course, no MAC address labels anywhere.
 
-It worked because we designed it around **how the field actually works**, not how a vendor thinks it should work.
-Automation paved over hardware oddities, and we had a very solid environment that people relied on to 'just work'.
+We need this whole pile to work where remote hands MIGHT be
+able to string up a teamviewer session on a cell hotspot, an hour away from 
+any warehouse. At best.
 
-The hardware would never cooperate- that's a given.
+So, for this particular hellscape, we dove in deep.
 
-But we have Turing-complete programming languages.
+So we built a bootstrapping system that never presumed state.
+We had to get in there SOMEHOW (via serial, old IP, whatever).
+Gave it a baseline configuration, used SNMP probing/MAC tables
+to figure out what we were talking to, and pulled a lot of historical data
+into something resembling a serial tracking system.
 
-Checkmate.
+We even hacked together a ‘remote reset’ workaround just to give the illusion
+of a sane provisioning cycle.
 
----
+There are tons of other details I'm glossing over here- but the end result was
+that this thing worked for the org. It wasn't pretty in the traditional sense.
 
-Want to talk some gritty details about how to get a serial number on a sticker in a basement associated
-with software on that box without going there and looking at the sticker? Oh, btw the serial number
-is not loaded anywhere in the software. Intrigued? [greg@urg.systems](mailto:greg@urg.systems)
+It was godly in terms of decades of experience controlling "what if...".
 
+Which is really what resilience looks like deep down- **weaving the chaotic fabric
+of reality into something that looks like it was meant to fit the rack.**

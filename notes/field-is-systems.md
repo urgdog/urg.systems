@@ -6,42 +6,56 @@ layout: default
 
 # Field Is Systems
 
-Without all the fiber in the ground, the servers in closets, cables strung on poles, none of this works.
-Software matters, but don't forget layer one. The hornet-filled handholes, mysteriously stealthy closets, the cell towers and satellite dishes.
+Without all the cables on poles, hornet-infested handholes, satellite dishes
+attached with a single mighty bolt, none of this works.
 
-I earned my stripes troubleshooting gear in multi-million dollar homes with lawyers staring me down, just waiting
-for the chance to escalate. (Not all lawyers... but dang he was a memorable character).
+Software is fun and all, but it's running on top of some dirty, rusted out
+spider-filled lie.
 
-Anyway, I started in the field- probably 110 lbs soaking wet, fighting a 70 lb fiberglass ladder,
-Every home was a black box, no home runs, and always "the wiring is fine, our electrician is the best".
+I started in the field, carrying a ladder just about as heavy as me, 
+crawling under decks in what was *definitely* mud and *not* four inches of
+racoon poop.
 
-By the way, you've got 50 minutes to figure it out and fix it. I loved it.
+Every call was a black box. No home runs. Always:
+> "The wiring is fine, our electrician is the best."  
+> Yes, of course, I can tell by the RadioShack fittings and 568-FU wiring scheme.  
 
-Navigating the raw technical, and sometimes somewhat political nature of reality gave me more systems experience
-than any book or cert ever could.
+By the way, you've got 50 minutes. Figure it out and fix it.
 
-Because when you’ve had to:
+I loved it.
 
-* Diagnose issues without a meter, because you left it 45 minutes away
-* Crawl 200 ft under a house just to find out there is, in fact, nothing there
-* Stare at a ceiling, and get a flash of x-ray vision: *someone did something stupid up there in 1988.*
-* Explain BERs and SNRs to "an engineer"
+--- 
 
-You gain a weird wisdom that can't be taught. These things aren't JSON objects- they're dumb rocks that 
-we tricked into wiggling electrons just convincingly enough to look like they're thinking.
+Because fundamentally? It's the dumb version of systems training.
 
-Through all that blood and sweat, you gain power over those little bastards. Those dumb rocks are now your minions.
-They speak to you in ways you can't quite explain.
+You learn things like:
 
-This all shapes my perspective:
+- Diagnosing signal issues without a meter, because you left it 45 minutes away
+- Crawling 200 ft under a house just to find out there is, in fact, nothing there
+- How to stare at a ceiling, and get a flash of divine certainty: *"someone did something stupid up there in 1988. I must go there."*
+* Explain BERs and SNRs to "an engineer" who absolutely knows More Than You.
 
-> Assume the worst. Bring your own tools. Don’t trust that anyone upstream knew what they were doing.
-
-If you’ve never dug snow to find a pedastal, wrung a quantifiable amount of sweat out of your shirt after being in an attic for 20 minutes, or gazed into the blinking sync LED wondering where your life went wrong, maybe you’re good at software infra.
-
-But you’re not *one with the stack.*
+These are the kinds of lessons that *actually* teach systems thinking if you're
+paying attention.
+You start to see beyond some JSON payload; and the deeper reality-
+All of this is just dumb rocks we tricked into wiggling a certain way.
 
 ---
 
-You don’t need steel-toed boots to understand infrastructure. But it helps. Got a good story to share? [greg@urg.systems](mailto:greg@urg.systems)
+It teaches some perspective, and probably a bit of arrogance.
 
+- Assume the worst
+- Don't forget where you put your tools
+- The last guy definitely didn't do it right
+- Oh... I see why they did that.
+- The last guy was you.
+- It's still your problem.
+
+---
+
+If you've never:
+- Dug six feet of snow and ice to find a pedastal
+- Wrung a quantifiable amount of sweat out of your shirt after being in an attic for 10 minutes
+- Or gazed into the blinking sync LED wondering where your life went wrong
+
+You have not become *one with the stack.* Embrace the phy.

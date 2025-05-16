@@ -9,10 +9,10 @@ You've come to the right place then- this place is mostly about infrastructure,
 systems, and how organizations quietly fail, or hit the mark. Welcome.
 
 This site exists because most of what passes for strategy or 
-process in technical organizations is deeply confused. I’ve spent
- nearly two decades building, fixing, and fighting through those 
- systems — and this is where I try to distill the lessons down to
-  something less stupid, without buzzword nonsense.
+process in technical organizations is deeply confused. I’ve spent 
+nearly two decades building, fixing, and fighting through those 
+systems — and this is where I try to distill the lessons down to 
+something less stupid, without buzzword nonsense.
 
 What you’ll find here:
 - Posts about things I’ve broken or fixed
@@ -26,7 +26,7 @@ This is not a portfolio, it's not sanitized- it's just bizarre
 edge cases, the "why are we even doing this?" kind of thinking.
 My hope is that someone can stumble across this and think:
 "Ah, that's not a bad idea. I should try that," and saves
-themselves some pain.
+themselves some pain- or at least has a laugh.
 
 > Unaffiliated with anything. Responsible for nothing and everything.
 

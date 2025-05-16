@@ -9,7 +9,7 @@ What it says on the tin.
 
 I think stuff, I write it down.
 
-Other times, I write stuff then I think it down.
+Other times, I write stuff, then I think it.
 
 It should become clear to you which is which. 
 

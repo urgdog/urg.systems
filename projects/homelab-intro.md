@@ -1,46 +1,74 @@
 ---
-title: Homelabs, aka Battle Testing Reality (and Yourself)
+title: Homelabbing - Self-inflicted Resilience Training
 date: 2025-05-11
 layout: default
 ---
 
-# Homelabs, aka reasons to make yourself feel bad
+# Homelabbing - Self-inflicted Resilience Training
 
 Breaking things is a great way to learn.
 
-Scratch that. Actually, fixing them is the part where you learn. Breaking them is easy.
-Just maintain the rate of fix to be higher than rate of break. That's the ideal state.
+Actually, fixing them is the part where you learn. Breaking them is easy.
 
-I have a little homelab that I use with real constraints that mirrors how systems fail
-and survive in the real world. I use it to test automation workflows, monitoring logic,
-and "Can this device can run at 80 VAC?" (Yes! For almost a minute!)
+Critical point: ensure fix/break ratio is greater than 1.
 
-"Prod" setup, roughly:
+**More formally, the F/B ratio:**
 
-- WireGuard site-to-site tunnels across multiple physical locations
-- Dyn DNS, LTE backup links.
-- UDM Pro for segmenting "prod" from chaos. If you have a WFH partner, you've got real prod. Careful.
-- ~80+ Cat 6e pathed through the house. Why not?
+```
+F = quantity of fixed things
+B = quantity of things you've touched
+```
+This is critical math, you must understand it deeply.
 
-The lab side:
+I have a little homelab where I valiantly attempt to keep the F/B ratio up.
 
-- Dell/Supermicro hosts for virtualization, VMware/Proxmox
-- Intel NUCs for... actually I don't remember what that one's doing.
-- a few Mikrotiks (They can do everything! Why not set up BGP on a pocket calculator?)
-- Digital Loggers (IP Power controlers), some UPSs, and lots of velcro. So much velcro.
+As you've probably noted already, the best way to do that is to keep "B" 
+as low as possible. The problem is I can't un-touch things, so I must increase
+"F". Which requires touching things, which increases "B". I told you the math
+would get complicated.
+
+I do this to see if things will, in fact, work the way I think they should (they do not).
+Other times it's about accidentally discovering that a product will, in fact,
+boot at 80 VAC. (Kinda).
+
+Behold! My standard stuff:
+
+- WireGuard tunnels between multiple physical locations
+- Dynamic DNS + LTE backups for conditional failover
+- UDM Pro acting as the vanguard of peace between "prod" and "experiments"
+    - (if you have a WFH partner, you have prod, tread carefully)
+- ~80+ Cat6e throughout the house. I should have pulled more.
+
+Lab things:
+- ~a space heater~ Dell R610 with VMware, and an ancient supermicro running proxmox (battling to the death)
+- Intel NUCs, a few of em... I don't remember what they're doing. I think that one's important.
+- Mikrotiks running BGP because... I mean they can, how cool is that?
+- Digital Loggers (IP power controller), and a few UPSs- and a lot of velcro.
+
+One may see this as a graveyard of ancient gear that should be put to rest.
+
+I see it as a ritual site to extract knowledge from these forsaken chips. They
+will earn their rest. But not yet.
+
+Why do all this?
 
 It's good to dive in just to stay sharp.
 
 If you haven't experienced the full ride of: 
 > "I am the smartest person alive!"
 
+(followed by)
+
 > "I am dumber than pond scum."
+
+(followed by)
 
 > "Yes! I am a genius!"
 
 You should probably build a lab. It will humble and enlighten. It doesn't need to be expensive.
-You don't even need to know anything yet. That's the point. You just have to want to.
 
-Next up: Maybe a weather station, or some time lapse photography. I'm sure I'll break something doing it.
-[greg@urg.systems](mailto:greg@urg.systems)
+You don't need a certification, you don't need a degree, you don't need to "be smart".
 
+You just need to have curiosity, stubbornness, and yes, a few dollars for these things.
+
+The rollercoaster is worth the price.
