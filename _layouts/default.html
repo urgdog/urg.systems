@@ -4,19 +4,48 @@
   <meta charset="UTF-8">
   <title>{{ page.title }} | URG.SYSTEMS</title>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    body { font-family: monospace; background: #111; color: #eee; padding: 2rem; max-width: 700px; margin: auto; }
-    a { color: #55ddff; text-decoration: none; }
-    a:hover { text-decoration: underline; }
-    footer { margin-top: 4rem; font-size: 0.9rem; color: #666; }
-  </style>
+  <link rel="stylesheet" href="/assets/css/style.css">
+
+
+
 </head>
 <body>
+  <nav class="breadcrumb">
+  <a href="/">Index</a>
+  {% if page.url contains '/projects/' %}
+    &raquo; <a href="/projects/">Projects</a>
+  {% elsif page.url contains '/notes/' %}
+    &raquo; <a href="/notes/">Notes</a>
+  {% elsif page.url contains '/stories/' %}
+    &raquo; <a href="/stories/">Stories</a>
+  {% endif %}
+  {% if page.title %}
+    &raquo; {{ page.title }}
+  {% endif %}
+</nav>
+
   <main>
+    
+
+
+    
     {{ content }}
+    
   </main>
   <footer>
-    <p>©URG</p>
+  <nav class="breadcrumb">
+  <a href="/">Index</a>
+  {% if page.url contains '/projects/' %}
+    &raquo; <a href="/projects/">Projects</a>
+  {% elsif page.url contains '/notes/' %}
+    &raquo; <a href="/notes/">Notes</a>
+  {% elsif page.url contains '/stories/' %}
+    &raquo; <a href="/stories/">Stories</a>
+  {% endif %}
+  {% if page.title %}
+    &raquo; {{ page.title }}
+  {% endif %}
+</nav>    <p>©URG</p>
   </footer>
 </body>
 </html>

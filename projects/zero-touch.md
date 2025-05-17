@@ -27,10 +27,10 @@ I can work with.
 What I'm talking about are the ones that need to work at massive scale, and
 have aspects of technological cryptozoology like:
 
-> No DHCP on any interface, even after reset
-> A "factory reset" button that... just reboots.
-> Serial numbers on stickers only. Not in software.
-> and of course, no MAC address labels anywhere.
+> No DHCP on any interface, even after reset  
+> A "factory reset" button that... just reboots.  
+> Serial numbers on stickers only. Not in software.  
+> and of course, no MAC address labels anywhere.  
 
 We need this whole pile to work where remote hands MIGHT be
 able to string up a teamviewer session on a cell hotspot, an hour away from 

@@ -5,34 +5,43 @@ layout: default
 # urgent systems
 
 If you've landed here, you're probably trying to figure out how I think.
-You've come to the right place then- this place is mostly about infrastructure, 
-systems, and how organizations quietly fail, or hit the mark. Welcome.
 
-This site exists because most of what passes for strategy or 
-process in technical organizations is deeply confused. I’ve spent 
-nearly two decades building, fixing, and fighting through those 
-systems — and this is where I try to distill the lessons down to 
-something less stupid, without buzzword nonsense.
+Good. You're in the right place.
 
-What you’ll find here:
+This site is (mostly) about infrastructure, systems, and how they silently fail- 
+or hit the mark. It exists because most of these discussions about technical
+strategy are buzzword-laden and written by people who've never had
+to assemble a shielded RJ45 while standing on an icy rooftop at midnight.
+
+I've spent two decades building, fixing, and fighting real systems of all kinds.
+What's here is distilled aftermath, for better or worse.
+
+What you'll find:
 - Posts about things I’ve broken or fixed
-- Thoughts about random things I find are interesting
-- Eventually some comedy gold stories from my days of old
+- Thoughts about weird stuff I find interesting
+- Eventually some old stories, if I ever remember them quite right.
 
-You may even find a small sliver of wisdom- or at least a question
-to ask that helps avoids the cataclysm.
+You may even find a little wisdom.  
+Or at least the right question to ask before the next thing blows up.
 
-This is not a portfolio, it's not sanitized- it's just bizarre 
-edge cases, the "why are we even doing this?" kind of thinking.
-My hope is that someone can stumble across this and think:
-"Ah, that's not a bad idea. I should try that," and saves
-themselves some pain- or at least has a laugh.
+This is not a portfolio.
 
-> Unaffiliated with anything. Responsible for nothing and everything.
+It's not sanitized.
 
+It's the weird stuff, it's the edge cases, the "why are we even doing this?"
+ kind of thinking.
+
+If one person stumbles across this and thinks:
+
+> "Huh. That's a good idea, I should try that."
+
+Then this was all worth putting online.
+
+> Unaffiliated with anything.  
+> Responsible for nothing and everything.  
 > There’s a lot of things to worry about.
 
 ---
-- [Projects](/projects/) - Things I've built or broken in name of progress. Slightly more polished.
+- [Projects & Experiments](/projects/) - Things I've built or broken in name of progress. Slightly more polished.
 - [Notes & Thoughts](/notes/) - I unleash my inner goblin brain.
-- Field Stories - Not yet built. Not sure if text will do those justice.
+- [Field Stories](/stories/) - Technical truth. Minimal dignity.

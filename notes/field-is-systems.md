@@ -37,8 +37,8 @@ You learn things like:
 
 These are the kinds of lessons that *actually* teach systems thinking if you're
 paying attention.
-You start to see beyond some JSON payload; and the deeper reality-
-All of this is just dumb rocks we tricked into wiggling a certain way.
+You get the ability to see beyond the JSON payload; and the deeper reality-
+all of this is just dumb rocks we tricked into wiggling a certain way.
 
 ---
 
