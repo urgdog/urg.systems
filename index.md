@@ -19,7 +19,7 @@ What's here is distilled aftermath, for better or worse.
 What you'll find:
 - Posts about things I’ve broken or fixed
 - Thoughts about weird stuff I find interesting
-- Eventually some old stories, if I ever remember them quite right.
+- Stories from the field, all true.
 
 You may even find a little wisdom.  
 Or at least the right question to ask before the next thing blows up.
