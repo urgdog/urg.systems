@@ -152,8 +152,10 @@ We waited about 5 minutes for the box to load up the VOD menus.
 Bob went to the Adult VOD menu, and randomly selected a feature which, 
 if I remember correctly, was something along the lines of "Fun at the Beach".
 
-What I do remember, was this feature did not waste time at all on exposition,
-and it was a gay feature, just... yup. Moderately surprising to say at the least.
+What I do remember, was this feature did not waste time at all on exposition.
+Straight to action- very efficient. Also, it was a gay feature. Not that there's
+anything wrong with that, of course. Just not the kind of data payload you're
+expecting to be verifying.
 
 Erin remarked from our audibly shocked reactions, "Sounds like it's working?"
 
