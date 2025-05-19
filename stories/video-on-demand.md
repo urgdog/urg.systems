@@ -94,7 +94,7 @@ you pay for."
 "Interesting." maybe a hold on the account? Sometimes that happens if there's a
 TON of videos ordered, they'll just block the box.
 
-Bob was already on it, looking for a premium VOD (like a recently released movie).
+Bob clicked through the interface, looking for a premium VOD (like a recently released movie).
 We'd credit the account, so no biggie there. Loaded up just fine, started playing.
 
 From the couch, Jake said, "Well, not those... We tried this on the phone,
