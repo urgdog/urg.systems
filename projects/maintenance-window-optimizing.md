@@ -73,6 +73,7 @@ That's kind of the point - it's super obvious, it had never been done because
 it had just never been done before. Something as simple as using a spreadsheet
 to sort some data fundamentally changed what was just SOP for years.
 
+<div class="field-box">
 Don't ignore the simple stuff. Sometimes there's reasons to do it "the long way",
 and that's ok- but you have to understand why they're done a certain way before
 you can optimize.
@@ -83,4 +84,4 @@ no longer is relevant.
 That's what gets you that next step of insight.
 
 There are better ways to get tree-trunk calves than squats in a poorly mapped DC.
-
+</div>

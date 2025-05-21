@@ -67,8 +67,10 @@ If you haven't experienced the full ride of:
 
 You should probably build a lab. It will humble and enlighten. It doesn't need to be expensive.
 
+<div class="field-box">
 You don't need a certification, you don't need a degree, you don't need to "be smart".
 
 You just need to have curiosity, stubbornness, and yes, a few dollars for these things.
 
 The rollercoaster is worth the price.
+</div>

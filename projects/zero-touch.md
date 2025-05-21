@@ -44,6 +44,20 @@ Gave it a baseline configuration, used SNMP probing/MAC tables
 to figure out what we were talking to, and pulled a lot of historical data
 into something resembling a serial tracking system.
 
+The amount of conditionals in a permanently stateful system are obnoxiously
+staggering, to say the least. But, with a little bit of field wisdom, and
+knowing how things actually work in the real world, and a lot of pencil and
+paper diagrams (and erasers), we were able to get this thing into a state
+that actually behaved like a rational piece of hardware.
+
+
+<div class="field-box">
+If you're looking at a beast of this magnitude, and somehow you're also reading this-
+you've got this. It will be painful and someone will somehow upend piles
+of assumptions you made, but it can be done. Just iterate, and stay close 
+to the output.
+</div>
+
 We even hacked together a ‘remote reset’ workaround just to give the illusion
 of a sane provisioning cycle.
 
