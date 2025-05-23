@@ -73,15 +73,11 @@ That's kind of the point - it's super obvious, it had never been done because
 it had just never been done before. Something as simple as using a spreadsheet
 to sort some data fundamentally changed what was just SOP for years.
 
-<div class="field-box">
-Don't ignore the simple stuff. Sometimes there's reasons to do it "the long way",
-and that's ok- but you have to understand why they're done a certain way before
-you can optimize.
+<div class="field-box" style="white-space:pre-line">
+Don't ignore the simple stuff. Sometimes there's reasons to do it "the long way", and that's ok- but you have to understand why they're done a certain way before you can optimize.
 
-The reasons could also simply be lousy- steeped in ancient tradition that
-no longer is relevant.
+The reasons could also simply be lousy- steeped in ancient tradition that is no longer relevant.  
 
-That's what gets you that next step of insight.
-
-There are better ways to get tree-trunk calves than squats in a poorly mapped DC.
+That's what gets you that next step of insight.  
 </div>
+There are better ways to get tree-trunk calves than squats in a poorly mapped DC.  

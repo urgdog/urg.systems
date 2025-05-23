@@ -28,8 +28,7 @@ as low as possible. The problem is I can't un-touch things, so I must increase
 would get complicated.
 
 I do this to see if things will, in fact, work the way I think they should (they do not).
-Other times it's about accidentally discovering that a product will, in fact,
-boot at 80 VAC. (Kinda).
+Other times it's learning that yes, that thing CAN boot at 80 VAC. (Kinda).
 
 Behold! My standard stuff:
 
@@ -55,19 +54,19 @@ Why do all this?
 It's good to dive in just to stay sharp.
 
 If you haven't experienced the full ride of: 
+> "I know nothing, none of this makes sense."
+
+(followed by)
+
 > "I am the smartest person alive!"
 
 (followed by)
 
 > "I am dumber than pond scum."
 
-(followed by)
-
-> "Yes! I am a genius!"
-
 You should probably build a lab. It will humble and enlighten. It doesn't need to be expensive.
 
-<div class="field-box">
+<div class="field-box" style="white-space:pre-line">
 You don't need a certification, you don't need a degree, you don't need to "be smart".
 
 You just need to have curiosity, stubbornness, and yes, a few dollars for these things.

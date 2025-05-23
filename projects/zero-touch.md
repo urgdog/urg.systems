@@ -51,11 +51,12 @@ paper diagrams (and erasers), we were able to get this thing into a state
 that actually behaved like a rational piece of hardware.
 
 
-<div class="field-box">
-If you're looking at a beast of this magnitude, and somehow you're also reading this-
-you've got this. It will be painful and someone will somehow upend piles
-of assumptions you made, but it can be done. Just iterate, and stay close 
-to the output.
+<div class="field-box" style="white-space:pre-line">
+If you're looking at a beast of this magnitude, and somehow you're also reading this- you've got this.  
+
+It will be painful and someone will somehow upend piles of assumptions you made, but it can be done.
+ 
+Iterate and stay close to the output.
 </div>
 
 We even hacked together a ‘remote reset’ workaround just to give the illusion

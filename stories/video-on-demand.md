@@ -109,7 +109,9 @@ Jake took the remote, and navigated the VOD menu to the Adult section.
 
 My first reaction was technical incredulity- why would the back end system
 care? We just ordered a movie you have to pay for, what's the difference with
-adult VOD? Technically nothing, as far as I know...
+adult VOD? Technically nothing, as far as I know...  Possibly an adult-specific
+hold on the account, but surely techs wouldn't be dispatched for an account issue.
+(I'll hold for the laughter for the ones who know.)
 
 Jake selected a feature I don't remember the name of, and I will spare you.
 
@@ -153,15 +155,14 @@ Bob went to the Adult VOD menu, and randomly selected a feature which,
 if I remember correctly, was something along the lines of "Fun at the Beach".
 
 What I do remember, was this feature did not waste time at all on exposition.
-Straight to action- very efficient. Also, it was a gay feature. Not that there's
-anything wrong with that, of course. Just not the kind of data payload you're
-expecting to be verifying.
+Straight to action- very efficient. Not the kind of payload you're expecting to
+be verifying.
 
 Erin remarked from our audibly shocked reactions, "Sounds like it's working?"
 
-> Me: "Yes. Yes it is. Can you credit that? The customer does not want to watch it."  
+> Me: "Yes. Yes it is. Can you credit that one too?"  
 > Erin: "Yup, all set. Anything else you need help with?"  
-> Me: "Nope."  
+> Me: "Nope.  Thanks."  
 
 So we packed up our gear and went on our way, another problem solved, one more
 awkward situation under the belt.
