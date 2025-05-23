@@ -109,8 +109,10 @@ Jake took the remote, and navigated the VOD menu to the Adult section.
 
 My first reaction was technical incredulity- why would the back end system
 care? We just ordered a movie you have to pay for, what's the difference with
-adult VOD? Technically nothing, as far as I know...  Possibly an adult-specific
-hold on the account, but surely techs wouldn't be dispatched for an account issue.
+adult VOD? Technically speaking there's usually a designated encoder in the headend
+for adult QAM generation but that would impact a huge area. Ugh, this might be
+technical escalation hell. But hold on- it could be an adult-specific hold
+on the account? Surely techs wouldn't be dispatched for an account issue.
 (I'll hold for the laughter for the ones who know.)
 
 Jake selected a feature I don't remember the name of, and I will spare you.
@@ -124,7 +126,9 @@ Jake did a few more- none worked- same error.
 We tried another "regular" premium VOD- worked just fine.
 
 I said, "Ok, so this feels like an account-level block or something. Let me
-call dispatch and they can dig a little further in here."
+call dispatch and they can dig a little further in here." (genuinely hoping it
+wasn't something more widespread, that would make this a long night
+of escalations)
 
 I called dispatch and got Erin. I was thrilled, she really knew her shit-
 which was absolutely necessary to navigate whatever odd pile of nonsense we

@@ -51,9 +51,10 @@ will earn their rest. But not yet.
 
 Why do all this?
 
-It's good to dive in just to stay sharp.
+I don't know, to be honest. I learn stuff. It can be satisfying to spend
+a little too long making an LED blink. I don't know why. More realistically,
+the answer is more along chasing the lows and highs of:
 
-If you haven't experienced the full ride of: 
 > "I know nothing, none of this makes sense."
 
 (followed by)
@@ -64,7 +65,9 @@ If you haven't experienced the full ride of:
 
 > "I am dumber than pond scum."
 
-You should probably build a lab. It will humble and enlighten. It doesn't need to be expensive.
+If you're not familiar with this ride, you should probably build a lab.
+It will humble and enlighten. It doesn't need to be expensive. Oh- and when it's
+time: yes, you do need the rack with wheels.
 
 <div class="field-box" style="white-space:pre-line">
 You don't need a certification, you don't need a degree, you don't need to "be smart".
