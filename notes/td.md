@@ -3,7 +3,7 @@ title: Thunderdoming
 date: 2025-05-27
 layout: default
 ---
-# Wrangling Chaos into Action
+# Thunderdoming
 A lot of project frameworks look like theatre to me. Theatre's fine and all,
 but keep it out of my workflow.
 
@@ -151,8 +151,7 @@ It means engineering aligns to the org because the process finally reflects real
 ### Final Thought, The Sequel
 Yes, this does not create "easy pathways for executive oversight". You'll
 probably need to make some slide decks to get wins for the quarter to show
-progress. If someone’s hammering you for ticket velocity in a high-agency 
-skunkworks, the real problem isn’t your workflow.
+progress. If someone’s hammering you for ticket velocity in a high-agency department, the real problem isn’t your workflow.
 
 It’s that they’ve mistaken dashboards for delivery.
 
