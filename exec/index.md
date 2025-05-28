@@ -7,7 +7,7 @@ permalink: /exec/
 
 ## Summary
 Strategic infrastructure leader since 2006 building scalable, high-performance 
-systems systems that work in the real world. Proven track record in
+systems that work in the real world. Proven track record in
 translating technical complexity into operational clarity, building resilient
 architecture, and guiding organizations through infrastructure, automation,
 and incident inflection points. Known for bridging field experience with executive alignment.
