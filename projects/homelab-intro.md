@@ -14,8 +14,7 @@ Critical point: ensure fix/break ratio is greater than 1.
 
 **More formally, the F/B ratio:**
 
-```
-F = quantity of fixed things
+```F = quantity of fixed things
 B = quantity of things you've touched
 ```
 This is critical math, you must understand it deeply.

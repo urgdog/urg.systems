@@ -17,8 +17,7 @@ so the enter key behaves normally.
 
 ## Solution: 
 1. Open a fresh doc. Paste this in:
-```
-Title
+```Title
 Subtitle
 Heading 1
 Heading 2
