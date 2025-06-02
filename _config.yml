@@ -2,7 +2,7 @@ title: urg.systems
 email: greg@urg.systems
 description: >-
   Infrastructure notes, lab experiments, and real-world postmortems. No fluff.
-baseurl: "" # leave blank unless you host from a subdirectory
+baseurl: "" 
 url: "https://urg.systems"
 author: G
 
