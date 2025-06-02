@@ -18,7 +18,8 @@ Formally:
 
 Where:
 
-```D = Total downtime (seconds)
+```
+D = Total downtime (seconds)
 Q = Average quadriceps size of engineers on-site (cm)
 SR = Squat ratio- the percentage of devices in the lower third of racks within the 
 maintenance scope.
