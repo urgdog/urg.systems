@@ -76,7 +76,7 @@ bricks in walls. ull figure it out.
 to be a secure and safe shaman. Protect your cave! Urg knows some people don't care
 but its good to try and be aware.
 
-* Urg says: Good internet makes things go better; easier to fix when broken.
+*Urg says: Good internet makes things go better; easier to fix when broken.
 This applies to everything. Knowin basics is good enuf to learn harder later.*
 
 ## sky to rocks
@@ -146,18 +146,20 @@ battery stuff - batteries and chargers are MOST expensive, not the tools.
 get batteries that go with most of things you want to do. Dewalt is expensive
 but vast domain coverage. Ryobi is home depot brand, also good. Some ppl
 might say they junk tools but they not that bad.
-- "code" vs "works but is bad" - knowing can be very helpful for understanding
-'previous owner' (who is now you too). every code is written in blood never 4get.
+- "code" vs "works but is bad" - knowing can be very helpful for understanding.
+every code is written in blood never 4get.
 that said, ppl can be real stupid which makes some codes rly dumb.
-know how to not die #1 job. always do code, but understand why is better.
+know how to not die #1 job. always do code, but understand *why* is better. Helps
+figure out which things need fix now, and which can be later. Always too many things
+to do, and its ok to feel overwhelmed.
 
 *Urg says: plan plan plan before do! sometimes look at it and think "why was
 it done this way, previous owner so dumb" and you laugh and laugh. Then you start doing thing
 your way- a demon will appear and say "i show u why it was done this way" and 
-hurt you. Do not tempt this demon, he is mortal enemy.
+hurt you. Do not tempt this demon by laughing at previous owner. Remember you are previous
+owner too, now.
 it is ok to look, think about, then come back next day and think again. But!
-Do not fall prey to apathy demon either. He says "later" forever and nothing happens.
-Then house fall down because houses hate houses.*
+Do not fall prey to apathy demon either. He says "later" forever.*
 
 ## internet bonus power infosec like u mean it
 - Physical layer > all: don't forget lockboxes, rekeying (hidey combo locks are great!)
