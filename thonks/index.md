@@ -18,6 +18,6 @@ In the meantime:
 - [omg windows 11 stfu](windows-stfu.md)
 - [Fixing Annoying Google Docs Behavior](googledocs.md)
 - [Downtime / Quad Size Ratio Theorem](maintenance-window-optimizing.md)
-- [Homelabbing - Self-inflicted Resilience Training](homelab-intro.md)
+- [Homelabbing - Self-inflicted Resilience Training](homelab.md)
 
 
