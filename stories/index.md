@@ -13,7 +13,7 @@ Then I fixed stuff in headends where little red LEDs mean a lot of scary things.
 
 tho some are red because everything is fine.
 
-anyway here are some stories that happened, and they're fun.
+anyway here are some stories that happened.
 
 ---
 
