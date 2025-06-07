@@ -11,9 +11,8 @@ layout: default
 
 ## Answer:
 You're falling into 'normal text' styles (little dropdown, left of 
-the font). Docs seems to presume that you're writing your next big breakout novella
-and wants gigantic paragraph spacing by default. Why? idk. Let's fix it 
-so the enter key behaves normally.
+the font- it's called the "styles dropdown"). Docs seems to presume that
+you're writing your next big breakout novella and wants gigantic paragraph spacing by default. Why? idk. Let's fix it so the enter key behaves normally.
 
 ## Solution: 
 1. Open a fresh doc. Paste this in:
@@ -40,13 +39,13 @@ Custom Spacing`.
 5. Hit **Apply**.
 
 ## Make It Stick:
-- Open the style dropdown, scroll to the bottom.
+- Open the style dropdown (left of font dropdown), scroll to the bottom.
 - Click `Options > Save as my default styles`.
 
 This now applies to all _your_ new docs.
 
 ## Caveats: 
-- This won't affect shared docs you didn't create (prolly obvious but just sayin'.)
+- Won't affect shared docs you didn't create (prolly obvious but just sayin'.)
 - Pasting in styled text from someone else's Docs dumpster fire may "pollute"
 your now superior, clean, and controllable styles.
 - Use `CTRL+SHIFT+V` to paste as plain text to keep your stuff clean to avoid that.

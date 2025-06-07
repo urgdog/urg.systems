@@ -2,34 +2,44 @@
 title: Index
 layout: default
 ---
-# urgent systems
+# urg systems
 
-This site is (mostly) about infrastructure, systems, and how they silently fail- 
-or hit the mark. It exists because most technical writings are by people who've never had
-to assemble a shielded RJ45 while standing on an icy rooftop at midnight.
+I'm not sure why this exists. It started as a "can I make a website without
+it being total trash" and now lands somewhere between "kinda" and "who cares".
 
-I've spent two decades building, fixing, and fighting real systems of all kinds.
-What's here is distilled aftermath.
+Things I do:
+- I think about things
+- I get annoyed they don't work good
+- I break (then sometimes fix.)
 
-What you'll find:
-- Posts about things I’ve broken or fixed
-- Thoughts about weird stuff I find interesting
-- Stories from the field
+Computer things, house things, social things,
+finance things, and even organizational company things, and sometimes how
+none of it will really matter in a few hundred million years.
 
-You may even find a little wisdom.  
-Or at least the right question to ask before the next thing blows up.
+But we should try anyway tho, right?
 
-Perhaps one day, someone may stumble across this and think:
+Probably.
 
-> "Huh. That's a good idea, I should try that."
+Because not trying new stuff is boring. What else are you gonna do?
 
-Odds are it will be me, in the future. But if it's someone else -  that's
-pretty cool too.
+Anyway, I don't think I have all the answers. And you can find all the 
+answers out there anyway.
+
+Maybe one day someone will read this and think:
+
+> "Huh. Neat brain idea."
+
+It will prolly be me because I am old and forget all the time.
+If it's not me, that's incredible.
+
+Hello, other creature.
 
 > Unaffiliated with anything.  
-> There’s a lot of things to worry about.
+
+> There’s a lot of things to worry about.  
 
 ---
-- [Projects & Experiments](/projects/) - Things I've built or broken in name of progress. Slightly more polished.
-- [Notes & Thoughts](/notes/) - Musings, technical notes, grievances.
-- [Field Stories](/stories/) - Minimal dignity. Be warned.
+- [Field Stories](/stories/) - Real stories about things that happened
+- [Thonks](/thonks/) - Some thonks can be good.
+- [About](/about/) - Why is Urg?
+

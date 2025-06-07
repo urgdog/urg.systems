@@ -5,23 +5,15 @@ layout: default
 
 # Field Stories
 
-I worked as a field tech for a major ISP for years. If you’ve ever done that kind of work,  
-you already know: the field gives you stories.
+I used to work in the field doing telecommunications stuff.
 
-Some are funny.  
-Some are weird.  
-Some make you question how anything in this world functions at all.  
+Fixing stuff in the real world is fun and stressful.
 
-This is my attempt to write them down, because I forget things now,  
-and someone should probably get a laugh out of them.
+Then I fixed stuff in headends where little red LEDs mean a lot of scary things.
 
-All names have been anonymized for plausible deniability.
+tho some are red because everything is fine.
 
-There may be cursing beyond this point.  
-
-### **Actually, there will absolutely be cursing beyond this point.**
-
-Proceed accordingly.
+anyway here are some stories that happened, and they're fun.
 
 ---
 
