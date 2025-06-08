@@ -27,10 +27,7 @@ Now we face new problem: How can you un-touch things?
 
 Urg doesn't know this yet, so we must increase "Fixed" things. Which 
 means increasing "Broken" things (also known as "Touched" things.)
-I told you the math would get complicated.
-
-I do this to see if things will, in fact, work the way I think they should (they do not).
-Other times it's learning that yes, that thing CAN boot at 80 VAC. (Kinda).
+This math is hard, but important.
 
 Warning for young internet shamans:
 
@@ -48,15 +45,15 @@ A wise network shaman will monitor and be aware, and inform proactively.
 
 Not to deflect blame.
 But to ensure stability of their realm, and to not catch eyebrow raise of doom 
-when purchasing a 40 amp breaker when on what started as a gardening trip to
-home depot. (look 10 amps is just not enough and its a short run)
+when purchasing a 20 amp breaker when on what started as a gardening trip to
+home depot. (look 10 amps is just not enough)
 
 You don't need to know what I have in my lab, but it's ancient crap - I list
 this just to say you don't need to blow thousands:
-- ~a space heater~ Dell R610 with VMware (f u broadcom try and take my 6.7 esxi away)
+- ~~a space heater~~ Dell R610 with VMware (f u broadcom try and take my 6.7 esxi away)
 - an ancient supermicro running proxmox (you'll get there little buddy)
 - Intel NUCs, a few of em... I don't remember what they're doing. I think that one's important.
-- Mikrotiks running BGP because... I mean they can, how cool is that?
+- Mikrotiks, lots of em, they're cheap! and can run bgp how cool is that? 
 
 Why?
 
@@ -74,22 +71,23 @@ the answer is more along chasing the lows and highs of:
 
 > "I am dumber than pond scum."
 
-This is what makes soft, failure-afraid goblins into tough shamans that can stare
-down the uncertainty beast. You've broken worse, and fixed worse, and figured out
-that you know how to figure it out.
+This is what makes soft, failure-fearing goblins into tough shamans that can stare
+down the uncertainty beast and laugh. You've broken worse, and fixed worse. Most importantly:
+
+> you've figured out that you know how to figure it out.
 
 It doesn't need to be expensive. Oh- and when it's time: yes, you do need the rack with wheels.
 
 <div class="field-box" style="white-space:pre-line">
 You don't need a certification, you don't need a degree, you don't need to "be smart".
 
-Stubbornness and watch the patterns.
+Just be stubborn and keep trying. Watch the patterns.
 
-It's ok to not know. It's ok to wonder and not know.
+It's ok to not know. It's ok to wonder and not know. It's not ok to not try.
 
 You'll figure it out- or if you don't, you know what it isn't, and that's just
 as good.
 
-Just get up and do something.
+"Get up and do something."
 
 </div>

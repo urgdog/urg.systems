@@ -7,8 +7,6 @@ layout: default
 
 Why Urg?
 
-I am Urg.
-
 Why? I don't know. Why are you?
 
 See?
@@ -41,12 +39,12 @@ k, I'm a network and systems nerd that knows how to climb a telephone pole and w
 weird brick and barbed wire building that you drive past every day that you've
 never acknowledged until this moment. That's "where the internet comes from". It's neat.
 
-so I do internet stuff, systems stuff, coding things, systems things, leadership things.
+so I do internet stuff, systems stuff, coding things, systems stuff, leadership things.
 
 all to make things not suck as much as they do.
 
-w/e look if you want some pseudo feel-good depressio shit about thought leadership
-go to linkedin (if it still exists)
+w/e look if you want some pseudo feel-good depression bait about thought leadership
+go to linkedin.
 
 oh man can you imagine if linkedin didn't exist? that'd be neat - 
 cuz I'll definitely not update this.

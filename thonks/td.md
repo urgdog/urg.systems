@@ -11,7 +11,7 @@ I have my own "framework", called "Thunderdome Kanban".
 
 It's trash, it's stupid, but it's just "cognitive function in a kanban".
 which is why it works for me, because I have cognitive function. Maybe your team
-doesn't. That's ok, stick with your shitpile and 32 person standups.
+doesn't. That's ok, stick with your epically productive standups.
 
 ### Workflow Overview
 - Backlog  
@@ -22,7 +22,7 @@ doesn't. That's ok, stick with your shitpile and 32 person standups.
 - Testing  
 - Done  
 
-## Complaints / Backlog / Input: Reality Sucks, Let's Fix It
+## Backlog / Input: Reality Sucks; Let's Fix It
 
 Doesn't need a polished pitch. You want complaints- the unstructured, vague type.
 Create tickets for these to shield the team's time.
@@ -43,54 +43,54 @@ Slop the finished product onto a silver platter for your team.
 
 ## Refinement: The Thunderdome
 I think normal people call this "grooming". I call it beating the shit out of ideas
-until they're ready. or, if you want to be nice in front of execs, "Thunderdoming".
+until they're ready. Or, if you want to be nice in front of execs, "Thunderdoming".
 
-This is where tickets do battle to refine the shape of what actually is going to happen.
+This is where the idea does battle to get to a stable path forward.
 Poke the idea, question assumptions, look for re-use or potential landmines.
 
-Toss out a starting path based on existing tools or known patterns. Or a crazy
-idea. Or just a question. Doesn't matter. Don't be too proud to say 'I don't know'.
-Because if someone says they know everything, or acts like they do, you should probably laugh
-loudly at them. They're jackasses.
+Don't be too proud to say 'I don't know'. Because if someone acts like they
+know everything, you should probably laugh loudly at them. They're jackasses.
 
-Anyway, if the task survives the thunderdome, it moves to Todo.
+Anyway, if the task survives, it moves to Todo.
 
 If it gets beat up a little too much, maybe it goes back to requirement analysis.
-That's ok too. No penalty, it's fine. You get to learn too.
+That's ok. No penalty, it's fine. You get to learn too.
 
 ## Execution: Just get it done, but don't be stupid about it
-Once it's in todo, it can be claimed (prolly should have happened inherently
+Once it's in todo, it can be claimed (tho it prolly should have been claimed inherently
 in the thunderdome, but w/e, you do you)
 
 Engineers can and should push back or pivot mid-stream if the original plan
-turns out to be bad. That's learning. It's ok.
+turns out to be bad. That's learning. It's ok. Just make sure it gets communicated.
 
 We're not here to do the stuff we already know how to do.
 
-Don't worship the ticket. Solve the problem. 
+Sometimes a ticket gets blocked. That's fine.  
+Sometimes it becomes "Will Not Implement". This is also fine.  
 
-Sometimes a ticket gets blocked. That's fine. Sometimes it becomes "Will Not Implement".
-This is also fine. Learning what not to do is just as important as "doing something".
+Learning what not to do is just as important as "doing something".  
 Sometimes more important.
 
-and no, I'm not going to describe 'will not implement', 'testing', or 'done'.
+no, I'm not going to describe 'will not implement', 'testing', or 'done'.
 
 ## y not just let pms do all this
-Because a lot of them chase jira ticket velocity like it's some real measurement
-of anything. Not all of them though. 
+Because a lot of them chase tickets like it's some real measurement
+of anything when the real impact is just drag.
 
-This sounds like arrogance, but it's just ownership. Know the system. Know the 
-players, know the business. 
-And when I’ve worked with the rare PM who brings real context and domain insight?
-Fuck yeah, bring it. Rare partnerships indeed. You know who you are out there. 
+Is this whole thing arrogance? A little, but mostly it's just ownership.
+Know the system, the players, the business.
+
+And when I’ve worked with the PM who brings real context and domain insight?
+
+A worthwhile partner. You know who you are. 
 
 ## 2 hard 2 care, y bother
-yeah pretty much it's just "do everything yourself because you can't trust anyone
-and now you've got no exec visibility for 3x the work".
+yeah pretty much it's just "do everything yourself and now you've got no
+exec visibility for 3x the work".
 
-Yeah, nailed it. That's the issue. Caring about making things better sucks.
+Nailed it. That's the issue. Caring sucks. It's hard.
 
-In a place that focuses on theatre instead of results, yeah this is gonna flop hard.
+In a place that focuses on theatre instead of results, yeah this is gonna flop.
 You can always throw together some slide decks to get wins for the
 quarter to show progress.
 
@@ -98,7 +98,7 @@ And if you can't slop a deck together to show some killer impact,
 and the results aren't screaming louder than some dumbass powerpoint,
 always be open to the idea that you aren't as good as you thought.
 
-Because that means you're good. Or you're shit. Or maybe not. Maybe?
+Because that means you're good. Or you're shit. Or maybe not?
 
 Maybe I'm trash. Which means at least I'm self aware enough to improve.
 
