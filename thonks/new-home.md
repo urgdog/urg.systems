@@ -10,7 +10,7 @@ And everyone tries to screw you over the whole time, nobody is helping, but
 everyone acts like they are helping. Very un-shaman-like behavior, but,
 such is capitalism.
 
-Luckily, Urg has compiled a list of things to teach goblins on their first time
+Luckily, Urg has compiled a list of things to teach on their first time
 (or maybe not even first time! it's ok to forget!) things to make sure their 
 temple stays nice and not stupid.
 
@@ -23,7 +23,7 @@ Combined, it's this- the list of things to know, and personal checklist/knowledg
 check of things to do in a new house:
 
 ## water control (water makes life, but also rot!)
-- main water shutoff location (test it!! everyone needs 2 know)
+- main water shutoff location (test it!! **everyone** needs 2 know)
 - water meter location
 - exterior hose bibs: Freeze bad. Check for backflow preventers
 - water heater: gas/electric, age, pressure relief valve tested? Sediment flush?
@@ -34,8 +34,13 @@ check of things to do in a new house:
 
 ## electric panel (harness lightning bolts like true shaman)
 - Locate panel, test all breakers, label. (NOT "Jessica's Room!" Make diagram if need)
+    - if you want 2 be fancy, make spreadsheet and print! update when changes + adds.
+    Then you have history! Not always useful but fun to see progress.
 - GFCI and AFCI locations - test the buttons. TEST/RESET! is easy.
-- aluminum wiring? Two-prong outlets? Open em up! 
+- aluminum wiring? Two-prong outlets? Open em up! Knowing is good.
+- check outlets for being wired goofy and dumb. If one is, bet all are.
+- Know all the switches/outlets! Does an outlet not work? Not know what switch does?
+You must know. Must find out!
 - Extension cords doing what outlets should? You can fix this! And should!
 - Confirm circuits for HVAC, sump, and fridge. **Everyone** needs 2 know. not just 'fixer shaman'!
 - Learn to use a non-contact voltage tester   (don't die being dumb)  
@@ -46,7 +51,8 @@ entropy demon. This is good. If scared of electricity on wires, know this-
 deep down it's just copper rocks that wiggles to do dangerous/smart things. Deep down
 those rocks do NOT want to wiggle, so it's easy to make them not wiggle. Or,
 in different ways: trust yourself, and nobody. Not even yourself. But it's ok
-if scared and don't want to do, but give it a thonk. Understanding and not doing is ok too.*
+if scared and don't want to do, but give it a thonk. Understanding and not doing is ok too.
+But not understanding, not trying, and not doing? Many coins lost to such attitude.*
 
 ## hvac n stuff - not quite control lava but pretty close
 - Furnace/boiler age, filter size/type, location [make model]
@@ -59,7 +65,7 @@ of mold'. Look, nurgle comes for us all. ok is fine just try to delay a
 lil - so if it's real gross, clean - u will 100% know cuz it will smell *dead* bad.
 
 *Urg says: Comfort stuff is complex. Lots of goofy logic in weird places, and 
-easy to see where shortcuts get taken. We hate complexity, but is needed to not
+easy to see where shortcuts get taken. We hate it, but is needed to not
 be dead. Drafty hole, old filter, bad labels, weird things that dont make sense. Find them.*
 
 ## the internet
