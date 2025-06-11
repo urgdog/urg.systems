@@ -120,7 +120,6 @@ do these maintenance rituals to cast spell of binding.
 its very effective. most ppl do not. is hard to motivate,
 i know- but is ok. just dont 'next week' for 43 years.*
 
-
 ## write because brain forget most times, and save shiney rock coins
 - receipts, paint colors, fixture types, manuals - save them!
 - Dates  on everything you touch (HVAC filters, roof repairs)
@@ -144,10 +143,9 @@ future you is you but more smarter- give future you more brains now by not being
 - Basic multimeter usage - if you have HVAC, get one with microfarads // capacitance.
 more expensive, but worth it for testing capacitor so you don't have to give HVAC man
 all your coins when you could buy parts for not even a coin.
-
 - "Minimum viable homeowner toolbag" contents
-- "cartman 39 piece home tool kit" - get the red one, it has cutters 
-- before you go crazy on power tools look at whole brand kit - ESPECIALLY for
+    - "cartman 39 piece home tool kit" - get the red one, it has cutters 
+    - before you go crazy on power tools look at whole brand kit - ESPECIALLY for
 battery stuff - batteries and chargers are MOST expensive, not the tools.
 get batteries that go with most of things you want to do. Dewalt is expensive
 but vast domain coverage. Ryobi is home depot brand, also good. Some ppl
@@ -156,8 +154,9 @@ might say they junk tools but they not that bad.
 every code is written in blood never 4get.
 that said, ppl can be real stupid which makes some codes rly dumb.
 know how to not die #1 job. always do code, but understand *why* is better. Helps
-figure out which things need fix now, and which can be later. Always too many things
-to do, and its ok to feel overwhelmed.
+figure out which things need fix now, and which can be later.
+- Always too many things to do, and its ok to feel overwhelmed, even sad or angry!
+it gets better, promise. is worth it.
 
 *Urg says: plan plan plan before do! sometimes look at it and think "why was
 it done this way, previous owner so dumb" and you laugh and laugh. Then you start doing thing

@@ -83,11 +83,10 @@ You don't need a certification, you don't need a degree, you don't need to "be s
 
 Just be stubborn and keep trying. Watch the patterns.
 
-It's ok to not know. It's ok to wonder and not know. It's not ok to not try.
+It's ok to not know.
 
-You'll figure it out- or if you don't, you know what it isn't, and that's just
-as good.
+You'll figure it out- or if you don't, you know what it *isn't*, and that's just as good.
 
-"Get up and do something."
+Just get up and do something.
 
 </div>

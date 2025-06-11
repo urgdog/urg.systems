@@ -172,6 +172,6 @@ So we packed up our gear and went on our way, another problem solved, one more
 awkward situation under the belt.
 
 <div class="field-box">
-And that's how I got paid for going to a stranger's house with a co-worker,
-calling a woman, and watching gay porn.
+And that's how I got paid for going to some random guy's house, meeting a co-worker
+there, calling a woman, and watching gay porn.
 </div>
