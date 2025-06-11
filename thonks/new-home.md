@@ -23,7 +23,7 @@ Combined, it's this- the list of things to know, and personal checklist/knowledg
 check of things to do in a new house:
 
 ## water control (water makes life, but also rot!)
-- main water shutoff location (test it!! **everyone** needs 2 know)
+- main water shutoff location (test it!! **everyone** needs to know)
 - water meter location
 - exterior hose bibs: Freeze bad. Check for backflow preventers
 - water heater: gas/electric, age, pressure relief valve tested? Sediment flush?
@@ -34,7 +34,7 @@ check of things to do in a new house:
 
 ## electric panel (harness lightning bolts like true shaman)
 - Locate panel, test all breakers, label. (NOT "Jessica's Room!" Make diagram if need)
-    - if you want 2 be fancy, make spreadsheet and print! update when changes + adds.
+    - if you want to be fancy, make spreadsheet and print! update when changes + adds.
     Then you have history! Not always useful but fun to see progress.
 - GFCI and AFCI locations - test the buttons. TEST/RESET! is easy.
 - aluminum wiring? Two-prong outlets? Open em up! Knowing is good.
@@ -42,7 +42,7 @@ check of things to do in a new house:
 - Know all the switches/outlets! Does an outlet not work? Not know what switch does?
 You must know. Must find out!
 - Extension cords doing what outlets should? You can fix this! And should!
-- Confirm circuits for HVAC, sump, and fridge. **Everyone** needs 2 know. not just 'fixer shaman'!
+- Confirm circuits for HVAC, sump, and fridge. **Everyone** needs to know. not just 'fixer shaman'!
 - Learn to use a non-contact voltage tester   (don't die being dumb)  
 
 *Urg says: Prior owner did dumb. Is ok. You are also prior owner now. Try to not
@@ -76,7 +76,7 @@ and where it go.
 true but urg will let it slide. this time.) Unused phone wiring = secret conduit
 for pulling new wire! very nice.
 - WiFi coverage, is it shit? Do u have bricks in ur walls? is bad for
-wifi. not much 2 do but run new wires -but thats easy. but not with
+wifi. not much to do but run new wires -but thats easy. but not with
 bricks in walls. ull figure it out.
 - IoT stuff? Thermostats and smart robots? Probably set up some VLANs if you want
 to be a secure and safe shaman. Protect your cave! Urg knows some people don't care
@@ -100,7 +100,7 @@ Gravity always there, pushing down very hard.*
 - Test walls with a stud finder + voltage mode (don't drill holes thru pipe either!)
 - know how to patch drywall (is not hard, even drywaller can do it and they weirder than urg)
 - Floors: squeaks = subfloor movement? Water damage? sometimes just bad job and is not critical
-- Doors and windows: do they close cleanly (settling) (if 2 hard it might
+- Doors and windows: do they close cleanly (settling) (if to hard it might
 mean something weird or easy - not scary, just knowing is good)
 
 *Urg says: Old houses say where things don't line up- new thing
@@ -123,7 +123,7 @@ i know- but is ok. just dont 'next week' for 43 years.*
 ## write because brain forget most times, and save shiney rock coins
 - receipts, paint colors, fixture types, manuals - save them!
 - Dates  on everything you touch (HVAC filters, roof repairs)
-(u can sharpie stuff 2 - make a lil 'maintanence tag' for appliances)
+(u can sharpie stuff too - make a lil 'maintanence tag' for appliances)
 - Start a “House Book” could be text doc, binder... back it up! don't just save
 'house.txt' on desktop and cry when computer dies.
 - keep big expenses and contracts - useful for capital gains when u sell house! (tax strategy - 
@@ -151,7 +151,7 @@ get batteries that go with most of things you want to do. Dewalt is expensive
 but vast domain coverage. Ryobi is home depot brand, also good. Some ppl
 might say they junk tools but they not that bad.
 - "code" vs "works but is bad" - knowing can be very helpful for understanding.
-every code is written in blood never 4get.
+every code is written in blood never forget.
 that said, ppl can be real stupid which makes some codes rly dumb.
 know how to not die #1 job. always do code, but understand *why* is better. Helps
 figure out which things need fix now, and which can be later.
@@ -168,7 +168,7 @@ Do not fall prey to apathy demon either. He says "later" forever.*
 
 ## internet bonus power infosec like u mean it
 - Physical layer > all: don't forget lockboxes, rekeying (hidey combo locks are great!)
-- change locks! 4 reals! u never kno who has key from be4!
+- change locks! for reals! u never kno who has key from befor!
 - surveillance cams is very helpful - can make good pece of mind and also general
 'ups guy was here oh good'
 - Wi-Fi segmentation + VLANs = protec ur important shit, and dont
