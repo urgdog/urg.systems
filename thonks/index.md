@@ -13,7 +13,8 @@ One day I'll get it all sorted out and actually do nothing for real.
 In the meantime:
 
 ---
-- [How 2 Be Homeowner Shaman](new-home.md)
+- [how to make error messag good](errors.md)
+- [how to b homeowner Shaman](new-home.md)
 - [thunderdoming](td.md)
 - [omg windows 11 stfu](windows-stfu.md)
 - [Fixing Annoying Google Docs Behavior](googledocs.md)
