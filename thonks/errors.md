@@ -34,7 +34,7 @@ copy paste all errors for Urg to see, and say "Urg! Help! I have error!"
 Urg reads error, and think, "Urg must broken system with latest merge, dumb Urg."
 Much time spent and skull scratching.
 
-Nope, young shaman not plug in green cable! WHY inflict pain like this?
+Nope, young shaman not plug in green cable! Why inflict pain to urg like this?
 Urg trusted young shaman! Its ok, we not yell at youngling. But we unhappy.
 
 Urg has theory about this, and maybe it help other shamans:
