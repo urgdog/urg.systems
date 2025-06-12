@@ -17,5 +17,6 @@ anyway here are some stories that happened.
 
 ---
 
+- [423](423.md)
+- [Chaotic Canine Acquisition Methodologies, Explored](dog.md)
 - [Troubleshooting Video On-Demand](video-on-demand.md)
-

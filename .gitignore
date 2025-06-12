@@ -16,3 +16,6 @@ Gemfile.lock.bak
 # OS-specific junk
 .DS_Store
 Thumbs.db
+
+# Actual ignores
+stories/ideas.md
