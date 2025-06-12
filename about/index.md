@@ -40,7 +40,6 @@ weird brick and barbed wire building that you drive past every day that you've
 never acknowledged until this moment. That's "where the internet comes from". It's neat.
 
 so I do internet stuff, systems stuff, coding things, systems stuff, leadership things.
-sometimes I let my inner orc take the wheel here. You'll know when he shows up.
 
 all to make things not suck as much as they do, and maybe get a laugh.
 
