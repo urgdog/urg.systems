@@ -71,7 +71,7 @@ the truck with me when I was leaving. I had to throw the rest of my
 sandwich like a decoy just to get in the truck and make my getaway. I am so late
 for my next job.
 
-***no time talk. must go fix. no time!***
+***no time talk. must go fix. no time!***  
 Driving out of the neighborhood, two ladies flag me down. “Have you seen
 a golden retriever?” one asks.
 

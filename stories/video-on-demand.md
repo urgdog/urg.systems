@@ -107,7 +107,7 @@ Wait a sec, when doesn't VOD work?"
 
 Jake took the remote, and navigated the VOD menu to the Adult section.
 
-***no panic. we know. not big issue. known shape. only small issue.***
+***no panic. we know. not big issue. known shape. only small issue.***  
 My first reaction was technical incredulity- why would the back end system
 care? We just ordered a movie you have to pay for, what's the difference with
 adult VOD? Technically speaking there's usually a designated encoder in the headend
