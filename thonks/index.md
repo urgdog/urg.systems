@@ -13,7 +13,7 @@ One day I'll get it all sorted out and actually do nothing for real.
 In the meantime:
 
 ---
-
+- [mobile crash cart in your backpack](crashcart.md)
 - [how to make error messag good](errors.md)
 - [how to b homeowner Shaman](new-home.md)
 - [thunderdoming](td.md)
