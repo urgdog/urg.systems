@@ -6,9 +6,9 @@ layout: default
 # Urg Totem: Error Say, 'Cable Not Plugged'. Humans Say, 'System Broken.'
 
 In olden days, when Urg was a young shaman, he think everyone want to know things.
-Urg likes knowing things, and reading. Sometimes tho, ppl don't want all knowledge.
+Urg likes know things, and read. Sometimes tho, ppl don't want all knowledge.
 Is ok- not everyone likes to know history since time started. Very helpful
-for troubleshooting, not helpful for finishing things before ale-o-clock.
+for troubleshoot, not helpful for finishing things before ale-o-clock.
 
 So, Urg make programs- sometimes they have errors! Can't control that because
 humans interact with programs. That's the point! But humans are weird and
@@ -73,7 +73,7 @@ scary tho rite?
 </div>
 
 So we put demon in logs. Right in logs! How un-shaman-like. Logs are for text,
-not picture! Many smart shamans say, why not just pop up window or syslog interpreter,
+not picture! Many smart priest say, why not just pop up window or syslog interpreter,
 or abstraction upon abstraction upon abstraction? No, too complicated. Urg likes 
 dumb things. Clippy goes in syslog. We see what happen.
 

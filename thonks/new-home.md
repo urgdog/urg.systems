@@ -10,17 +10,18 @@ And everyone tries to screw you over the whole time, nobody is helping, but
 everyone acts like they are helping. Very un-shaman-like behavior, but,
 such is capitalism.
 
-Luckily, Urg has compiled a list of things to teach on their first time
+Luckily, Urg has compiled list of things to teach on their first time
 (or maybe not even first time! it's ok to forget!) things to make sure their 
-temple stays nice and not stupid.
+cave stays nice and not stupid.
 
 How does Urg know these things? Urg has messed up a lot. Urg wants you to not 
 have to endure pain that Urg has endured.
 
-Urg has also done a lot of good things.
+Urg has also done a lot of good things. Sometimes Urg is clever by being dumb.
+Urg knows you can do this too because Urg did it and Urg is not special.
 
-Combined, it's this- the list of things to know, and personal checklist/knowledge
-check of things to do in a new house:
+Here is list of things to know, and personal checklist/knowledge
+check of things to do in a new house, and some rules for becoming house shaman:
 
 ## water control (water makes life, but also rot!)
 - main water shutoff location (test it!! **everyone** needs to know)
@@ -30,7 +31,9 @@ check of things to do in a new house:
 - drainage slope outside? Gutters? Downspouts 6ft away from house?
 - Sump pump? Backup? Test them  
 
-*Urg says: Water is bad demon to temple house. Control demon and is ok.*
+*Urg says: Water is bad demon to temple house. Control demon and is ok. Water flow
+down, is unstoppable, but easy to direct. Water in basement? Check gutters, not 
+basement repair greedies, they tell u all bad things to scare for steal your coin.*
 
 ## electric panel (harness lightning bolts like true shaman)
 - Locate panel, test all breakers, label. (NOT "Jessica's Room!" Make diagram if need)
@@ -93,7 +96,9 @@ This applies to everything. Knowin basics is good enuf to learn harder later.*
 
 *Urg says: Gravity push from top - but bottom where it wind up. Apple dont blow
 up till it hit ground. Same thing for house. Except it doesn't fall. Mostly.
-Gravity always there, pushing down very hard.*
+Gravity always there, pushing down very hard. more words: if thing in basement
+look crack, look up! thing dont just crack cuz bored. they crack cuz they falling
+down real slow.*
 
 
 ## secrets from ancestors (they all lied and were bad)
@@ -131,9 +136,9 @@ is more complex and sometimes only useful with more expensive house.. but all ho
 expensive so idk. anyway just keep paperwork like that)
 
 *Urg says: Someday, someone else will be happy you wrote. prolly you tho.
-future you is you but more smarter- give future you more brains now by not being dumb like urg*
+future you is you but more smarter- give future you more brains now*
 
-## thing 2 know! no excuses
+## things to know! no excuses
 - How to shut off gas/water/electric in an emergency (EVERYONE! not just 'fixer person')
 - How to drill into different wall types safely (plaster, drywall, masonry)
 - Anchoring to studs, toggle bolts
@@ -155,26 +160,27 @@ every code is written in blood never forget.
 that said, ppl can be real stupid which makes some codes rly dumb.
 know how to not die #1 job. always do code, but understand *why* is better. Helps
 figure out which things need fix now, and which can be later.
-- Always too many things to do, and its ok to feel overwhelmed, even sad or angry!
-it gets better, promise. is worth it.
+- **Always too many things to do, and its ok to feel overwhelmed, even sad or angry!**
+**it gets better, promise. is worth it.**
 
-*Urg says: plan plan plan before do! sometimes look at it and think "why was
-it done this way, previous owner so dumb" and you laugh and laugh. Then you start doing thing
-your way- a demon will appear and say "i show u why it was done this way" and 
-hurt you. Do not tempt this demon by laughing at previous owner. Remember you are previous
-owner too, now.
-it is ok to look, think about, then come back next day and think again. But!
-Do not fall prey to apathy demon either. He says "later" forever.*
+*Urg says: plan plan plan before do! sometimes look and think "why it done this
+way, previous owner so dumb" and you laugh. Then you start doing your way-
+a demon will appear and say "i show u why done this way" and 
+hurt you very bad. Do not tempt demon by laughing at previous owner.
+Remember you are previous owner too, now.
+it is ok to look, think, then come back next day and think again. But!
+Do not fall prey to apathy demon either. He says "later" forever and nobody does 
+anything.*
 
 ## internet bonus power infosec like u mean it
 - Physical layer > all: don't forget lockboxes, rekeying (hidey combo locks are great!)
-- change locks! for reals! u never kno who has key from befor!
+- change locks! for reals! u never kno who has key from before!
 - surveillance cams is very helpful - can make good pece of mind and also general
 'ups guy was here oh good'
 - Wi-Fi segmentation + VLANs = protec ur important shit, and dont
 let work into ur shit and don't let ur shit into work. (if WFH, or have any
 device that touches work).
-    - work is bad, but we need work.
+    - work is bad, but we need work for coins, such is life.
     - treat work device like a creepy creep. cuz it is. trust urg on this.
 
 did u read all this? u r now house shaman. good job
