@@ -4,7 +4,7 @@ date: 2025-06-02
 layout: default
 ---
 
-# Windows STFU Checklist  
+# Windows shhhh Checklist  
 
 (side note: Seeing a weird "Install Driver to Show Hardware" when installing Windows 11?
 Try a different USB stick - a different brand particularly.)

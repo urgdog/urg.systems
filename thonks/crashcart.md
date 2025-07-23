@@ -12,7 +12,7 @@ laptop. You now have a more reliable method of consoling into servers than most 
   - Colo or data center crash carts are unreliable/broken, or missing.
     - "Does this monitor even work or is my sever dead?"
   - You really only need HDMI in, keyboard/mouse out, and a screen you control
-  - Carrying your own gear means **you're a walking resiliency machine**
+  - Carrying your own gear means you don't need to rely on luck to get what you need.
 
 ## 2. What You Need:
   - **USB UVC capture card** ($15-$25) 
@@ -24,7 +24,7 @@ laptop. You now have a more reliable method of consoling into servers than most 
     - Just enough to get to your laptop from a top-of-rack server. A few meters.
 
   - **Optional:** [VGA to HDMI adapter](https://a.co/d/7Ac4gSm)  
-    - For when you're dealing with pre-Cambrian era equipment. When that link breaks, look for ones that include **USB power**. This usually indicates it's an **active VGA -> HDMI** converter (not HDMI -> VGA).  
+    - For when you're dealing with VGA equipment. When that link breaks, look for ones that include **USB power**. This usually indicates it's an **active VGA -> HDMI** converter (not HDMI -> VGA).  
     Direction matters, and passive adapters won't work for VGA-to-HDMI.
 
   - **Mandatory:** Velcro straps
@@ -38,10 +38,11 @@ laptop. You now have a more reliable method of consoling into servers than most 
 2. Plug capture card -> laptop (USB-A or USB-C)
 
 3. OBS or any webcam viewer picks it up instantly  
-   (VLC, ffplay - heck you can Zoom/Webex/Google Meet it if you want)
+   (VLC, ffplay - heck you can Zoom/Webex/Google Meet it if you want, which
+   now you can even record with the meeting fuctions! slick.)
 
 4. Plug in your keyboard -> you're in.
-   Watch your server boot, BIOS post, panic loop, or whatever it’s doing today.
+   Watch your server boot, panic loop, or whatever.
 
 For around **$60**, you will never again:
 - Wander a datacenter begging for a crash cart  

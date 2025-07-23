@@ -32,14 +32,8 @@ mitigated by strategy.
 ---
 Origin Story of the DQR:
 
-Most planned maintenance I encountered early in my career was... polite. Engineers would
-sequence upgrades by port, numerically and hope that we could get it done before the window
-closed. It was clean and easy from the engineer's perspective.
-
-But it also meant I was doing 300 squats a night.
-
-But I don't need legs the size of tree trunks to work in a data center. That
-probably becomes a liability at a certain point.
+Most planned maintenance I encountered early in my career was annoyingly designed.
+Engineers would sequence upgrades by port, numerically. 
 
 So, why not go by rack? Turns out nobody had bothered to put where the stuff
 was located in the headends. Why? I don't know. If it existed, it wasn't 
@@ -47,25 +41,25 @@ readily available. Unfortunately there is a LOT of random weird gear in these
 places, so it's kind of hard to systemize it, but it's also not THAT bad to
 do it in "reverse" (ie, just use your eyeballs and a spreadsheet)
 
-Before each maintenance, I'd walk through and map the  involved gear to a
-spreadsheet. Sort that sheet by rack and print out the sheet. (I carried a printer
-in my truck exclusively for this purpose)
+Going by port on the gear means you're doing 300 squats a night.
 
-Then I'd hand out the sheets to techs: 
+So before each maintenance, I'd walk through and map gear to a
+spreadsheet. Sort that sheet by rack and print.
 
-> "These are your three racks tonight. Stay in them. Everything you need is here. Follow the sheet."
+Then I'd hand em out to the techs:
+
+> "These are your racks tonight. Stay in them. Everything you need is here. Follow the sheet."
 
 Ofc the aged veterans looked suspiciously at my dark art- "what if it didn't work?
 what if we miss one?"
 
 > "If sorting a spreadsheet randomly deleted information, we should prepare
-for the collapse of global finance. Or, I screwed up and we'll find it about 4
-hours faster anyway."
+for the collapse of global finance. Because banks run on excel, which is 
+stupid and horrifying, but a topic for another day. Just trust me on this."
 
-A few skeptical grumbles aside, doing this sliced our downtime viciously.
-
-One night, we ran a maintenance so cleanly it didn't even show up
-on the outage report. My boss assumed we had canceled it. Nice.
+A few skeptical grumbles aside, one night, we ran a maintenance so cleanly
+it didn't even show up on the outage report. It was assumed we had canceled it,
+which was neat.
 
 This isn't genius work- in fact I'd fully expect you to say "obviously".
 

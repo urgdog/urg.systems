@@ -19,11 +19,9 @@ F = quantity of fixed things
 B = quantity of things you've touched
 ```
 This is critical math, you must understand it.
+the best way to keep this ratio high is to keep "B" as low as possible.
 
-If you are a clever goblin like Urg, you've probably noted the best way to
-keep this ratio high is to keep "B" as low as possible.
-
-Now we face new problem: How can you un-touch things? 
+New problem: How can you un-touch things? 
 
 Urg doesn't know this yet, so we must increase "Fixed" things. Which 
 means increasing "Broken" things (also known as "Touched" things.)
@@ -36,7 +34,7 @@ Warning for young internet shamans:
 You should probably make a router or strongly segment between:
 - blood-ritual knowledge extraction site (lab)  
  and 
-- land of greater than 40% uptime (production) where partner can WFH safely.
+- land of uptime (production) where partner can WFH safely.
 
 Do not become "A Problem" layered atop "ISP problems". Very confusing and trust
 damaging. Not good.
@@ -45,8 +43,8 @@ A wise network shaman will monitor and be aware, and inform proactively.
 
 Not to deflect blame.
 But to ensure stability of their realm, and to not catch eyebrow raise of doom 
-when purchasing a 20 amp breaker when on what started as a gardening trip to
-home depot. (look 10 amps is just not enough)
+when purchasing a 20 amp breaker and 100 ft of romex when on what started as
+a gardening trip to home depot. (10 amps is just not enough ok)
 
 You don't need to know what I have in my lab, but it's ancient crap - I list
 this just to say you don't need to blow thousands:
@@ -74,19 +72,6 @@ the answer is more along chasing the lows and highs of:
 This is what makes soft, failure-fearing goblins into tough shamans that can stare
 down the uncertainty beast and laugh. You've broken worse, and fixed worse. Most importantly:
 
-> you've figured out that you know how to figure it out.
-
-It doesn't need to be expensive. Oh- and when it's time: yes, you do need the rack with wheels.
-
 <div class="field-box" style="white-space:pre-line">
-You don't need a certification, you don't need a degree, you don't need to "be smart".
-
-Just be stubborn and keep trying. Watch the patterns.
-
-It's ok to not know.
-
-You'll figure it out- or if you don't, you know what it *isn't*, and that's just as good.
-
-Just get up and do something.
-
+you've figured out that you know how to figure it out.
 </div>
