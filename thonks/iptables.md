@@ -133,7 +133,7 @@ Then we will likely wind up in FORWARD:
 
 This is where docker puts a lot of its rules, so you'll likely see `DOCKER-USER` and `DOCKER-ISOLATION-STAGE-1`, which we can then inspect those rules:
 
-`iptables -S DOCKER-USER`
+`iptables -S DOCKER-USER`  
 `iptables -S DOCKER-ISOLATION-STAGE-1 `
 
 These will pretty much say "if you're coming from a Docker interface, and going to NOT the same Docker interface, go to stage 2"
