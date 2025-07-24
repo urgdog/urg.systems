@@ -315,3 +315,6 @@ so it will pass thru without incident.
 
 Once you're past `POSTROUTING`, now you're back to the interface, and off to the container!
 
+And that's how packets get out of a conatiner, and back into a container.
+
+Roughly.
