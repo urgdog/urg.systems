@@ -86,6 +86,7 @@ which can be handy just to prove to yourself what's going on:
 then watch input iptables:  
 `iptables -L INPUT -v -n --line-numbers`
 
+
 If you need to clear counters:  
 `iptables -L -Z -v`
 
@@ -99,11 +100,22 @@ You generally wont have things in `mangle` or `raw`. But you will have something
 - `iptables -L PREROUTING -t raw -n -v --line-numbers`
 - `iptables -L PREROUTING -t nat -n -v --line-numbers`
 
+You'll probably just see a couple rules here, like a DOCKER chain and maybe nothing
+matching your traffic yet. That's fine. This chain only catches traffic that
+needs NAT handling at this point (e.g. published ports or DNAT).
+Most flows won’t match here unless you’ve exposed something.
+
+
 Presuming you have `DOCKER`, you'll have a `DOCKER` chain:
 - `iptables -t nat -L DOCKER -n -v --line-numbers`
 
 and then `INPUT` if you're local (ie, not needing to route):
 - `iptables -L INPUT -v -n --line-numbers`
+
+You’ll see the packet counters tick up here if your host is the final destination.
+But if you're routing (e.g. from container ➝ internet), this chain won’t get hit.
+Handy way to prove "am I being addressed directly?"
+
 
 Then `POSTROUTING`:
 - `iptables -t nat -L POSTROUTING -v -n --line-numbers`
@@ -136,17 +148,25 @@ This is where docker puts a lot of its rules, so you'll likely see `DOCKER-USER`
 `iptables -S DOCKER-USER`  
 `iptables -S DOCKER-ISOLATION-STAGE-1 `
 
-These will pretty much say "if you're coming from a Docker interface, and going to NOT the same Docker interface, go to stage 2"
-
+These will pretty much say "if you're coming from a Docker interface, and going to NOT the same Docker interface, go to stage 2".
 e.g.,
 <pre>
 -A DOCKER-ISOLATION-STAGE-1 -i docker0 ! -o docker0 -j DOCKER-ISOLATION-STAGE-2  
 -A DOCKER-ISOLATION-STAGE-1 -i br-1cbda01ee2d7 ! -o br-1cbda01ee2d7 -j DOCKER-ISOLATION-STAGE-2  
 </pre>
 
+I'll show you stage 2 in a sec, but functionally this whole chain sums up as
+"are you coming from a docker bridge, going anywhere else? and if you are 
+going anywhere else, are you going to ANOTHER docker bridge?"
+That's not allowed by default.
+
+I'll mention this a few times, because this looks like a lot of rules to do something
+that is objectively pretty simple isolation, but understanding it can potentially
+unlock some neat concepts.
+
 --- 
 
-What's stage 2 doing? Let's look:  
+So! What's stage 2 doing? Let's look:  
 `iptables -S DOCKER-ISOLATION-STAGE-2`
 
 You'll see something like this:
@@ -157,7 +177,7 @@ You'll see something like this:
 
 This is the other half of the equation: Docker doesn't want you to cross Docker
 networks (by default). So thus far, you're saying "i'm coming from inside my
-container, to ens160" (the routing table said so)
+container, to ens160 (a physical nic, the path out dictated by the routing table)"
 and we're here asking "is ens160 = any of these interfaces?"  
 
 Nope. If our destination was another docker network bridge, that would mean
@@ -199,6 +219,11 @@ You'll see something like this:
 MASQUERADE  all  --  *      !br-1cbda01ee2d7  172.20.0.0/16        0.0.0.0/
 </pre>
 
+You can test this rule firing by running repeated pings from the container
+`ping 1.1.1.1` and watching the packet count here go up. That means this rule
+is rewriting the src IP on egress.
+
+
 Now you've probably got a specific src-dest! This is what actually re-writes the
 source to be the host's source, so we can get it back (SNAT). It re-writes the source IP,
 so return traffic from the public internet will be sent back to the host, not the
@@ -218,11 +243,17 @@ will be in conntrack:
 
 `conntrack -L`
 
+Try pinging from the container to 1.1.1.1 and immediately run conntrack -L.
+You'll see a line with protocol icmp, and it’ll list a src, dst, and id= field.
+(ID is how it tracks ping sessions, since there are no ports in ICMP).
+
 now when a return packet comes back, it looks at conntrack and says "ah, I have rx'd a
 thing matching what I previously sent out using src/dest ip, src/dest port
 and protocol".
 
-For ICMP, it uses src/dest IP, ICMP type, Code	Subtype (usually 0) ICMP ID	(fake "port", kinda) and protocol. Same idea, just mildly different to get ICMP to work.
+NOTE! You won’t see a MASQUERADE rule hit here on return, because it already matched and 
+got recorded in conntrack (when we were going out). This is why return packets
+don’t need to "undo" MASQUERADE manually.
 
 Anyway, we send this back into iptables-
 
