@@ -3,19 +3,22 @@ title: Chaotic Canine Acquisition Methodologies, Explored
 date: 2025-06-12
 layout: default
 ---
+# Chaotic Canine Acquisition Methodologies, Explored
 
-So back when I was a field tech, I got sent to this house with… a lot of dogs.
-Like double-digit levels. I think the customer ran a doggie daycare or something.
+Back when I was a field tech, I got sent to a house with… a lot of dogs.
+Double-digit levels. At least.
 
-Now I love dogs, and dogs love me—kind of a mutual understanding of simple things
+I think the customer ran a doggie daycare or something.
+
+Now I love dogs, and dogs love me - kind of a mutual understanding of simple things
 I guess. Corporate policy says you should have animals moved out of the
 work area, but when you’re dealing with twelve dogs, that’s not happening.
 And realistically, every tech in the field makes judgment calls that don’t
 line up with what the book says. The best field ops teams understand that
-the rules should exist to back up techs, not box them in. Like, the book
-should help you nope tf out when a customer has a 5 foot tall hellhound with a
-hunting knife in its mouth, not tell you that you need to kick a 20 year
-old napping purse pup off his favorite couch. That's just bad karma, man.
+the rules should exist to back up techs, not box them in. The book
+should help you nope tf out when a customer has a five-foot-tall hellhound with a
+hunting knife in its mouth, not tell you that you need to kick a 20-year-old
+napping purse pup off his favorite couch. That's just bad karma, man.
 
 Anyway. This place had a whole dog containment system. Realistically,
 just a bunch of baby gates and room dividers, like doggie airlocks.
@@ -34,9 +37,11 @@ Yeaaaahhh. You see where this is going.
 Well I didn't know the dogs were outside at the time, so I round the corner 
 of the house to continue some outside work, and it’s this little standoff.
 Customer’s in front of the gate, gate’s behind her, a little dachshund is
-sizing up her shot at freedom. The customer says to me “uh... I didn’t know
-you opened that.” I’m like “yeah, I thought the dogs were inside... want me
-to help catch her?”
+sizing up her shot at freedom.
+
+> Customer: “Uh... I didn’t know you opened that.”  
+
+> Me: “Yeah, I thought the dogs were inside...”
 
 We try the slow-casual approach. You know, like we’re not trying to catch
 the dog but this little sausage torpedo wasn’t buying it. Shot right by me.
@@ -46,7 +51,7 @@ So now what? Not my dog, not even the customer's dog. This is a wild goose chase
 if there ever was one not involving a goose. But come on. You can’t just be
 like “welp, good luck with that” and leave.
 
-I grab my peanut butter sandwich figuring hey, dogs love peanut butter! So I go
+I grabbed my peanut butter sandwich. Dogs love peanut butter, right? So I go
 walking the neighborhood like a sandwich-wielding lunatic. After about
 15 minutes, I found a dog!
 
@@ -60,16 +65,15 @@ Cool. I have acquired a golden retriever. Is this another dog that got out? I do
 Don’t know where she came from, but she’s very committed to following me.
 
 I head back to the house. Customer’s coming from the opposite direction,
-holding the dachshund like a furry little trophy. I say, “Great, you found her!
+holding the dachshund like a furious little trophy. I say, “Great, you found her!
 Uh... I found this one?” She goes, “I don’t know that dog.”
 
 Great. Not her dog. Just a bonus dog. An extra friend.
 
 She wrangles her escape artist inside, and I finish the job with my new best
-friend standing loyally by my side the whole time. She even tried to hop into
-the truck with me when I was leaving. I had to throw the rest of my
-sandwich like a decoy just to get in the truck and make my getaway. I am so late
-for my next job.
+friend standing loyally by my side the whole time. She tried to hop into the
+truck with me when I left. I had to sacrifice the rest of my sandwich
+just to make my getaway.
 
 ***no time talk. must go fix. no time!***  
 Driving out of the neighborhood, two ladies flag me down. “Have you seen
@@ -81,10 +85,9 @@ peanut butter.”
 And they say thanks and I drive away, leaving those two ladies to wonder why
 I knew this random information.
 
-What's the point?  
-idk. Sometimes you try to do all the right things and the universe just
-doesn’t line up for you?
-And that’s ok.  
+What’s the point?
+Sometimes you try to do all the right things, and the universe just doesn’t line up.  
+That’s okay.  
 
 And then I left, thinking:  
 I didn’t catch the right dog.  

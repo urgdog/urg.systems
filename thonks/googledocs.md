@@ -1,10 +1,10 @@
 ---
-title: Google Docs Why
+title: Google Docs Annoying Whitespace Newline Fix
 date: 2025-06-01
 layout: default
 ---
 
-# Google Docs Re-Oriented for People Who Care (too much?)
+# Google Docs Annoying Whitespace Newline Fix
 
 ## Problem: 
 "Why the is there random whitespace after I hit enter sometimes? Especially lists?"

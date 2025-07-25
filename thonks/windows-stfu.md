@@ -9,6 +9,10 @@ layout: default
 (side note: Seeing a weird "Install Driver to Show Hardware" when installing Windows 11?
 Try a different USB stick - a different brand particularly.)
 
+This checklist changes constantly, because Microsoft insists on rearranging
+furniture mid-fire. The spirit is accurate, even if the click-paths rot with
+time. Every category (probably) still exists, the controls just play hide-and-seek.
+
 ## Taskbar & Start Menu
 
 - Disable “News and Interests” (Win 10)  
@@ -57,7 +61,7 @@ Try a different USB stick - a different brand particularly.)
   - `HTTP`, `HTTPS`
 
 -  Disable Bing in Start Menu  
-  *(Requires a registry edit - not linking here, because it changes all the time)*
+  *(Registry edit required; changes regularly and breaks easily... look it up if you’re committed.)*
 
 -   Clean Up Lock Screen  
   `Settings >> Personalization >> Lock screen`  

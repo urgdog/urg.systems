@@ -4,7 +4,7 @@ date: 2025-05-11
 layout: default
 ---
 
-# Downtime / Quad Size Ratio Theorem:
+# DQR Theorem:
 
 In any sufficiently large network environment, the physical effort expended
 per unit of downtime is inversely proportional to the intelligence of the
@@ -25,23 +25,27 @@ SR = Squat ratio- the percentage of devices in the lower third of racks within t
 maintenance scope.
 ```
 
-Therefore, as Q increases (beefy engineers from repeated squats) and SR remains
+Therefore, as Q increases (beefy field engineers from repeated squats) and SR remains
 high (lots of low gear) you can predict your downtime to also be high, unless
 mitigated by strategy.
 
 ---
 Origin Story of the DQR:
 
-Most planned maintenance I encountered early in my career was annoyingly designed.
-Engineers would sequence upgrades by port, numerically. 
+Most 'planned' maintenance I've encountered seems to be created by people that
+never held a pair of cutters, and probably weren't allowed 300 feet
+within a data center anyway.
+
+Or, more charitably: people who never dealt with the other end.
+
+SOP would sequence upgrades by port, numerically. 
+Going by port on the gear means you're doing 300 squats a night.
 
 So, why not go by rack? Turns out nobody had bothered to put where the stuff
-was located in the headends. Why? I don't know. If it existed, it wasn't 
-readily available. Unfortunately there is a LOT of random weird gear in these
+was located. Why? I don't know. If it existed, it wasn't available.
+Unfortunately there is a LOT of random weird gear in these
 places, so it's kind of hard to systemize it, but it's also not THAT bad to
 do it in "reverse" (ie, just use your eyeballs and a spreadsheet)
-
-Going by port on the gear means you're doing 300 squats a night.
 
 So before each maintenance, I'd walk through and map gear to a
 spreadsheet. Sort that sheet by rack and print.

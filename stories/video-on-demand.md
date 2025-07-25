@@ -44,7 +44,7 @@ to VOD streams in progress in their area.
 All of this is to say, the set top box is really just saying "I wanna watch a thing,
 and I'm going to look at a frequency to do it" and the backend system is saying 
 "someone in that area wants to watch a thing, we will broadcast it on a specific
-frequency."
+frequency - which everyone will technically see, but only one person can interpret."
 
 Now, you might think this broadcast thing is what this story is about- it's not.
 
@@ -53,7 +53,7 @@ of local controls to prevent abuse stacked on top of remote controls. In essence
 this all means "on demand can act weird based on the model/firmware of set top box
 and only Lord Motorola himself can tell you what's going on".
 
-Ok, that's enough tech gunk. Onto the story.
+Ok, that's enough tech reminiscing, onto the story.
 
 ---
 
@@ -75,8 +75,7 @@ We both arrived at around the same time, it was getting dark outside. We knocked
 on the door, and a young guy answered the door. We introduced ourselves,
 confirmed that we're at the right place, and he invited us in.
 
-He had the typical setup you'd expect from a mid-late twenties guy. Not super
-clean, not a disaster. No red flags for sure.
+Typical late-twenties guy setup. Lived-in, but not gross. Nothing weird.
 
 For the conversation, we'll call the subscriber Jake and my co-worker we'll call
 Bob.
@@ -107,9 +106,9 @@ Wait a sec, when doesn't VOD work?"
 
 Jake took the remote, and navigated the VOD menu to the Adult section.
 
-***no panic. we know. not big issue. known shape. only small issue.***  
 My first reaction was technical incredulity- why would the back end system
-care? We just ordered a movie you have to pay for, what's the difference with
+care? ***no panic. we know. not big issue. known shape. only small issue.*** 
+We just ordered a movie you have to pay for, what's the difference with
 adult VOD? Technically speaking there's usually a designated encoder in the headend
 for adult QAM generation but that would impact a huge area. Ugh, this might be
 technical escalation hell. But hold on- it could be an adult-specific hold
@@ -134,9 +133,9 @@ of escalations)
 I called dispatch and got Erin. I was thrilled, she really knew her shit-
 which was absolutely necessary to navigate whatever odd pile of nonsense we
 were looking at. I described the problem to her, and she said "Yeah, I see
-a LOT of orders recently."
+a LOT of adult orders."
 
-"Yeah, that's probably us testing- gonna need to credit those.. but none of those
+"Yeah, that's probably us testing- gonna need to credit those... but none of those
 actually came up as viewable. Is there anything blocking the account from adult
 VOD?"
 
@@ -159,9 +158,9 @@ We waited about 5 minutes for the box to load up the VOD menus.
 Bob went to the Adult VOD menu, and randomly selected a feature which, 
 if I remember correctly, was something along the lines of "Fun at the Beach".
 
-What I do remember, was this feature did not waste time at all on exposition.
-Straight to action- very efficient. Not the kind of payload you're expecting to
-be verifying.
+What I do remember, was this feature did not waste time at all on exposition. 
+Straight to action- very efficient. No logo, no intro, just, right into it.
+Not the kind of payload you're expecting to be verifying.
 
 Erin remarked from our audibly shocked reactions, "Sounds like it's working?"
 
@@ -169,8 +168,9 @@ Erin remarked from our audibly shocked reactions, "Sounds like it's working?"
 > Erin: "Yup, all set. Anything else you need help with?"  
 > Me: "Nope.  Thanks."  
 
-So we packed up our gear and went on our way, another problem solved, one more
-awkward situation under the belt.
+So we packed up our gear and went on our way.  
+Another problem solved.  
+One more awkward situation under the belt.  
 
 <div class="field-box">
 and that's the story of the time I met a co-worker at some random guy's house,

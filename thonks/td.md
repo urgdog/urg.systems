@@ -8,9 +8,8 @@ A lot of project frameworks look goofy to me.
 
 I have my own "framework", called "Thunderdome Kanban".
 
-It's trash, it's stupid, but it's just "cognitive function in a kanban".
-which is why it works for me, because I have cognitive function. Maybe your team
-doesn't. That's ok. I get it, org structures are different. But this works for me.
+It's structured, blunt, and some would call it unrefined- I call it truth.
+It works because it's honest, and I've used it for years to keep my teams cooking.
 
 ### Workflow Overview
 - Backlog  
@@ -34,20 +33,22 @@ Sometimes the worst ideas have some nuggets of awesome.
 Turn "i want better data" into something usable. e.g., 
 "RSSI, CINR, GPS coordinates, on a 24 hour cycle, queryable on my phone."
 
-This usually comes from understanding the business, and one  long pause
+This usually comes from understanding the business, and one long pause
 where the request is calcified into reality when the target of your inquisition
 relinquishes what they actually meant to say in the first place. It's an art.
 
 Get the finished thought onto a silver platter for your team.
 
 ## Refinement: The Thunderdome
-I think normal people call this "grooming". I call it idea-knife-fights
-until they're ready. Or, if you want to be nice in front of execs, "Thunderdoming".
+This is usually called “grooming.” Weird. I call it "Thunderdoming". It sounds
+harsher than it actually is, and I think this is the part that most people screw
+up.
 
-The idea does battle to get to a stable path forward. As engineers, we 
+The *idea* does battle to get to a stable path forward. As engineers, we 
 facilitate their battle. Remember, this isn't engineer vs engineer, this is 
 idea vs idea. Super important to get this through- we're not here to prove
-who's smartest, cleverest, etc. 
+who's smartest, cleverest, etc. We're here to learn from each other as ideas get
+stronger.
 
 Poke the idea, question assumptions, look for re-use or potential landmines.
 
@@ -69,6 +70,7 @@ in the thunderdome too)
 Engineers can and should push back or pivot mid-stream if the original plan
 turns out to be bad. That's learning. It's ok. Just make sure it gets communicated.
 
+<div class="field-box" style="white-space:pre-line">
 We're not here to do the stuff we already know how to do.
 
 Sometimes a ticket gets blocked. That's fine.  
@@ -76,6 +78,7 @@ Sometimes it becomes "Will Not Implement". This is also fine.
 
 Learning what not to do is just as important as "doing something".  
 Sometimes more important.
+</div>
 
 I'm not going to describe 'will not implement', 'testing', or 'done'.
 
@@ -86,7 +89,7 @@ Know the system, the players, the business.
 Are there pms that can mesh with this with real domain insight? Yeah. A
 worthwhile partner, for sure.
 
-## 2 hard 2 care, y bother
+## too hard 2 care, y bother
 yeah pretty much it's "do everything yourself and get no exec vis for 3x the work".
 
 Nailed it. That's the issue. Caring sucks. It's hard.
@@ -98,6 +101,7 @@ quarter to show progress.
 
 And if you can't slop a deck together to show killer impact,
 and the results aren't screaming louder than some vague deck,
-always be open to the idea that you aren't as good as you thought.
+always be open to the idea that you aren't as good as you thought. Use that 
+to get better.
 
-at least I'm not chasing ticket velocity.
+And still, I’d rather do that than fake impact to chase ticket velocity.

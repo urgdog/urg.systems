@@ -5,9 +5,10 @@ layout: default
 ---
 
 # how to be house shaman like urg
+### you are 'previous owner' now
 did you buy a new cave? is this your first time buying a cave? it's scary, i know.
 And everyone tries to screw you over the whole time, nobody is helping, but 
-everyone acts like they are helping. Very un-shaman-like behavior, but,
+everyone acts like they helping. Very un-shaman-like behavior, but,
 such is capitalism.
 
 Luckily, Urg has compiled list of things to teach on their first time
@@ -21,10 +22,10 @@ Urg has also done a lot of good things. Sometimes Urg is clever by being dumb.
 Urg knows you can do this too because Urg did it and Urg is not special.
 
 Here is list of things to know, and personal checklist/knowledge
-check of things to do in a new house, and some rules for becoming house shaman:
+check of things to do in new house, and some rules for becoming house shaman:
 
-## water control (water makes life, but also rot!)
-- main water shutoff location (test it!! **everyone** needs to know)
+## water demon control (water = life juice but also water = rot juice)
+- ***DO NOT SKIP!*** main water shutoff location (test it!! ***EVERYONE IN CAVE NEEDS TO KNOW, EVEN YOUNG GOBLINS!***)
 - water meter location
 - exterior hose bibs: Freeze bad. Check for backflow preventers
 - water heater: gas/electric, age, pressure relief valve tested? Sediment flush?
@@ -33,7 +34,7 @@ check of things to do in a new house, and some rules for becoming house shaman:
 
 *Urg says: Water is bad demon to temple house. Control demon and is ok. Water flow
 down, is unstoppable, but easy to direct. Water in basement? Check gutters, not 
-basement repair greedies, they tell u all bad things to scare for steal your coin.*
+basement repair greedies, they tell you all bad things to scare for steal your coin.*
 
 ## electric panel (harness lightning bolts like true shaman)
 - Locate panel, test all breakers, label. (NOT "Jessica's Room!" Make diagram if need)
@@ -57,7 +58,7 @@ in different ways: trust yourself, and nobody. Not even yourself. But it's ok
 if scared and don't want to do, but give it a thonk. Understanding and not doing is ok too.
 But not understanding, not trying, and not doing? Many coins lost to such attitude.*
 
-## hvac n stuff - not quite control lava but pretty close
+## lava control and air magic (hvac etc.)
 - Furnace/boiler age, filter size/type, location [make model]
 - AC condenser clear? Coil cleaning? (dont let dogs pee on it- very bad)
 - Thermostat behavior (programmable? battery backup?) -ppl tend to forget
@@ -65,22 +66,21 @@ thermostat batteries - some have them!
 - Radiators/baseboards? Bleeding needed if go bonk bonk noisy
 - Ducts prolly not need clean but every jackass will say 'u will die
 of mold'. Look, nurgle comes for us all. ok is fine just try to delay a
-lil - so if it's real gross, clean - u will 100% know cuz it will smell *dead* bad.
+lil - so if it's real gross, clean - you WILL 100% know cuz it will smell *dead* bad.
 
 *Urg says: Comfort stuff is complex. Lots of goofy logic in weird places, and 
 easy to see where shortcuts get taken. We hate it, but is needed to not
 be dead. Drafty hole, old filter, bad labels, weird things that dont make sense. Find them.*
 
 ## the internet
-- Where does it come into the house? Where is demarc? (place where it becomes ur
-house problems, not internet company problems). At least know where wire comes in
-and where it go.
+- Where does it come into the house? Where is demarcation point? (place where it
+stops being the internet company's problem and starts being yours). At least know where wire comes in and where it go.
 - Do you have cat5, cat6 (some youngs call it 'ethernet cable' - is technically not
 true but urg will let it slide. this time.) Unused phone wiring = secret conduit
 for pulling new wire! very nice.
-- WiFi coverage, is it shit? Do u have bricks in ur walls? is bad for
+- WiFi coverage, is it shit? have bricks in walls? is bad for
 wifi. not much to do but run new wires -but thats easy. but not with
-bricks in walls. ull figure it out.
+bricks in walls. you can figure it out.
 - IoT stuff? Thermostats and smart robots? Probably set up some VLANs if you want
 to be a secure and safe shaman. Protect your cave! Urg knows some people don't care
 but its good to try and be aware.
@@ -101,7 +101,7 @@ look crack, look up! thing dont just crack cuz bored. they crack cuz they fallin
 down real slow.*
 
 
-## secrets from ancestors (they all lied and were bad)
+## secrets from house ancestors (they lied and were dumb)
 - Test walls with a stud finder + voltage mode (don't drill holes thru pipe either!)
 - know how to patch drywall (is not hard, even drywaller can do it and they weirder than urg)
 - Floors: squeaks = subfloor movement? Water damage? sometimes just bad job and is not critical
@@ -110,13 +110,13 @@ mean something weird or easy - not scary, just knowing is good)
 
 *Urg says: Old houses say where things don't line up- new thing
 next to old thing? old thing next to REAL old thing? wat
-happend there? u now have xray vision. it's clues to mysteries.*
+happend there? now have xray vision. it's clues to mysteries.*
 
 ## rituals to protect temple (maintenance)
 - Test all smoke/CO alarms (replace batteries yearly)
-- Check sump pump if u have (annual)
+- Check sump pump if have (annual)
 - Clean dryer vent, vacuum fridge coils, inspect exterior caulking
-    - really tho clean that gd dryer vent, the tube n stuff.. get a shop vac is not hard
+    - ***NO SKIP! DO THIS:really tho clean that gd dryer vent, the tube, all of it.. get a shop vac is not hard.***
 - Flip breakers and test GFCIs/AFCIs (NOT WHILE STAND IN TUB OF WATER)
 - Drain a gallon from water heater (test TPR valve! is easier than think and bad TPR makes water)
 
@@ -128,7 +128,7 @@ i know- but is ok. just dont 'next week' for 43 years.*
 ## write because brain forget most times, and save shiney rock coins
 - receipts, paint colors, fixture types, manuals - save them!
 - Dates  on everything you touch (HVAC filters, roof repairs)
-(u can sharpie stuff too - make a lil 'maintanence tag' for appliances)
+(you can sharpie stuff too - make a lil 'maintanence tag' for appliances)
 - Start a “House Book” could be text doc, binder... back it up! don't just save
 'house.txt' on desktop and cry when computer dies.
 - keep big expenses and contracts - useful for capital gains when u sell house! (tax strategy - 
@@ -139,10 +139,10 @@ expensive so idk. anyway just keep paperwork like that)
 future you is you but more smarter- give future you more brains now*
 
 ## things to know! no excuses
-- How to shut off gas/water/electric in an emergency (EVERYONE! not just 'fixer person')
+- *** NO SKIP! DO THIS NOW: How to shut off gas/water/electric in an emergency (EVERYONE! not just 'fixer person')**
 - How to drill into different wall types safely (plaster, drywall, masonry)
 - Anchoring to studs, toggle bolts
-    - don't hang ur tv over the fireplace i swear
+    - don't hang your tv over the fireplace i swear
         - i mean you can but don't
 - Use of pipe thread tape - follow threads so spinning on don't ruin seal!
 - Basic multimeter usage - if you have HVAC, get one with microfarads // capacitance.
@@ -165,25 +165,23 @@ figure out which things need fix now, and which can be later.
 
 *Urg says: plan plan plan before do! sometimes look and think "why it done this
 way, previous owner so dumb" and you laugh. Then you start doing your way-
-a demon will appear and say "i show u why done this way" and 
+a demon will appear and say "i show you why done this way" and 
 hurt you very bad. Do not tempt demon by laughing at previous owner.
 Remember you are previous owner too, now.
 it is ok to look, think, then come back next day and think again. But!
 Do not fall prey to apathy demon either. He says "later" forever and nobody does 
 anything.*
 
-## internet bonus power infosec like u mean it
+## internet bonus power infosec like mean it
 - Physical layer > all: don't forget lockboxes, rekeying (hidey combo locks are great!)
-- change locks! for reals! u never kno who has key from before!
+- ***NO SKIP! DO NOW: change locks! for reals! never know who has key from before!***
 - surveillance cams is very helpful - can make good pece of mind and also general
 'ups guy was here oh good'
-- Wi-Fi segmentation + VLANs = protec ur important shit, and dont
-let work into ur shit and don't let ur shit into work. (if WFH, or have any
+- Wi-Fi segmentation + VLANs = protect your important shit, and dont
+let work into your shit and don't let your shit into work. (if WFH, or have any
 device that touches work).
     - work is bad, but we need work for coins, such is life.
     - treat work device like a creepy creep. cuz it is. trust urg on this.
 
-did u read all this? u r now house shaman. good job
-
-Maybe I will share more wisdom later but urgs fingers hurt from typing ok bye
-stay safe goblins and keep doing things
+and hey even if your house still stupid... it's *your* stupid now. you can make
+it less stupid. keep doing things, house shaman. good job.

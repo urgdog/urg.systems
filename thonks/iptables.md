@@ -1,15 +1,13 @@
 ---
-title: iptables for dums
+title: what is iptables anyway
 date: 2025-07-11
 layout: default
 ---
-# iptables tl;dr
-iptables is all over embedded gear, and it's pretty commonly overlooked,
-or handwaved. tbh, I've handwaved a lot of it because it's normally
-abstraced into stuff like `ufw` or GUIs. Additionally, you normally only 
-need to tweak a rule or two, so the fine details get lost.
+# iptables, how does it really tho
+Most people think they understand iptables. They don’t. Including me,
+until I traced a packet through every single chain like a lunatic with
+too much time and a burning desire to stop being lied to by man pages.
 
-I wanted to follow a packet thru the whole thing. Hope this helps anyone!
 This is also mostly notes for myself so I can forget these details.
 
 We start from inside a Docker container on a host, and then ping out,
@@ -27,8 +25,8 @@ NIC recv
 PREROUTING (raw, mangle, nat)
  ↓
 Routing Decision:
- ├── Destination = local? → INPUT
- └── Destination = elsewhere? → FORWARD
+ ├── Destination = local? → INPUT (Host firewall)
+ └── Destination = elsewhere? → FORWARD (Routing THRU host, not TO it)
  ↓
 POSTROUTING
  ↓
@@ -62,6 +60,8 @@ Each table has chains (which are like hooks in the packet lifecycle):
 |  nat    | PREROUTING, POSTROUTING, OUTPUT | SNAT/DNAT         |
 | mangle  |  All 5 + INPUT, OUTPUT          | Marking, QoS      |
 | raw     | PREROUTING, OUTPUT              | Disable conntrack |
+
+
 
 OUTPUT: src is from host
 INPUT: dst is the host
@@ -106,7 +106,7 @@ needs NAT handling at this point (e.g. published ports or DNAT).
 Most flows won’t match here unless you’ve exposed something.
 
 
-Presuming you have `DOCKER`, you'll have a `DOCKER` chain:
+If Docker’s in play, you’ll see a `DOCKER` chain in nat - it handles published ports.
 - `iptables -t nat -L DOCKER -n -v --line-numbers`
 
 and then `INPUT` if you're local (ie, not needing to route):
@@ -148,7 +148,7 @@ This is where docker puts a lot of its rules, so you'll likely see `DOCKER-USER`
 `iptables -S DOCKER-USER`  
 `iptables -S DOCKER-ISOLATION-STAGE-1 `
 
-These will pretty much say "if you're coming from a Docker interface, and going to NOT the same Docker interface, go to stage 2".
+These rules say, roughly: if traffic enters from a Docker bridge and is headed somewhere else, it gets flagged for stage 2 isolation.
 e.g.,
 <pre>
 -A DOCKER-ISOLATION-STAGE-1 -i docker0 ! -o docker0 -j DOCKER-ISOLATION-STAGE-2  
@@ -175,8 +175,8 @@ You'll see something like this:
 -A DOCKER-ISOLATION-STAGE-2 -o br-1cbda01ee2d7 -j DROP
 </pre>
 
-This is the other half of the equation: Docker doesn't want you to cross Docker
-networks (by default). So thus far, you're saying "i'm coming from inside my
+Stage 2 is where Docker actually slams the door - traffic targeting other bridges gets dropped here. Docker doesn't want you to cross Docker
+networks (by default). So thus far, you're saying "I'm coming from inside my
 container, to ens160 (a physical nic, the path out dictated by the routing table)"
 and we're here asking "is ens160 = any of these interfaces?"  
 
@@ -300,15 +300,18 @@ Note this chunk again:
 </pre>
 
 Specifically the first one which means:
-hey `conntrack`, if you've got any established connections, accept it.
 
-It then technically goes through `POSTROUTING`, but nothing will match, so it
-just passes through.
+hey `conntrack`, if you've got any established connections, accept it.
 
 But wait, you'll say- the packet's destination is still "the host", not the container.
 How do we know where it's going?
 
 That is what `conntrack` just did by hitting that `FORWARD` rule successfully.
+This is where the magic happens I mentioned earlier. `conntrack` remembers what
+outbound connections you made, so the return packets know how to get back.
+
+return path = no more MASQUERADE, just a conntrack-validated return trip
+through FORWARD + POSTROUTING.
 
 It will then proceed into `POSTROUTING`- where again, nothing will match,
 so it will pass thru without incident.
@@ -317,4 +320,5 @@ Once you're past `POSTROUTING`, now you're back to the interface, and off to the
 
 And that's how packets get out of a conatiner, and back into a container.
 
-Roughly.
+So: if you're looking to use Docker without punching holes through your host, understanding
+these chains lets you do that without hoping Docker’s abstraction does the right thing.

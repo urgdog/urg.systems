@@ -17,18 +17,17 @@ laptop. You now have a more reliable method of consoling into servers than most 
 ## 2. What You Need:
   - **USB UVC capture card** ($15-$25) 
     - Make sure it supports 1080p@30fps. I use [this one](https://a.co/d/aPj0fhj).
-    When that link dies, search for: `"USB 3.0 Video Capture Card 1080P HDMI UVC"`  
+    When that link dies, search: `"USB 3.0 Video Capture Card 1080P HDMI UVC"`  
   - **Rii Mini Keyboard** 
-    - [Link](https://a.co/d/brLzEnv) - classic, rechargeable, decent range, works with everything. Or any keyboard/mouse. Rii's are great though.
+    - [Link](https://a.co/d/brLzEnv) - Rechargeable, works with everything. Or use any USB keyboard/mouse if you hate fun.
   - **HDMI cable** 
     - Just enough to get to your laptop from a top-of-rack server. A few meters.
 
   - **Optional:** [VGA to HDMI adapter](https://a.co/d/7Ac4gSm)  
-    - For when you're dealing with VGA equipment. When that link breaks, look for ones that include **USB power**. This usually indicates it's an **active VGA -> HDMI** converter (not HDMI -> VGA).  
-    Direction matters, and passive adapters won't work for VGA-to-HDMI.
+    - For VGA equipment. Pick one with USB power. That means it's active, which you need. Direction matters. Passive adapters won't work.
 
   - **Mandatory:** Velcro straps
-    - You already have these. So coil this little adapter bundle up nice.
+    - If you don’t own these already, I don’t know what to tell you. Actually, I do.
 
 ## 3. How It Works
 
@@ -38,15 +37,12 @@ laptop. You now have a more reliable method of consoling into servers than most 
 2. Plug capture card -> laptop (USB-A or USB-C)
 
 3. OBS or any webcam viewer picks it up instantly  
-   (VLC, ffplay - heck you can Zoom/Webex/Google Meet it if you want, which
-   now you can even record with the meeting fuctions! slick.)
+   OBS, VLC, ffplay - whatever. Shows up like a webcam, which means you could 
+   even share it over Zoom... for some reason.
 
 4. Plug in your keyboard -> you're in.
    Watch your server boot, panic loop, or whatever.
 
-For around **$60**, you will never again:
-- Wander a datacenter begging for a crash cart  
-- Keep a dusty VGA monitor in your closet "just in case"
-
-This is gear investment that gives you **zero-dependency console access** anywhere you go.
-You are now the crash cart.
+Around $60. No more begging for a crash cart.
+No more VGA monitor in your closet.
+You are the crash cart now.

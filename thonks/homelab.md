@@ -1,33 +1,37 @@
 ---
-title: Self-inflicted Resilience Training
+title: Recursive competence
 date: 2025-05-11
 layout: default
 ---
 
-# Homelabbing - Self-inflicted Resilience Training
+# Recursive competence: how to learn that you can learn
 
 Breaking things is a great way to learn.
 
 Actually, fixing them is the part where you learn. Breaking them is easy.
 
-Critical point: ensure fix/break ratio is greater than 1.
+You can ensure you are learning by using this formula that is absolutely real
+and not made up and useless.
 
-**More formally, the F/B ratio:**
+**Formally, the F/B ratio:**
 
 ```
 F = quantity of fixed things
 B = quantity of things you've touched
 ```
-This is critical math, you must understand it.
-the best way to keep this ratio high is to keep "B" as low as possible.
+
+Ensure fix/break ratio is as high as possible.
+
+The best way to keep this ratio high is to keep "B" as low as possible.
 
 New problem: How can you un-touch things? 
 
-Urg doesn't know this yet, so we must increase "Fixed" things. Which 
-means increasing "Broken" things (also known as "Touched" things.)
-This math is hard, but important.
+I don't think this is possible. So, we must increase "Fixed" things.
+Which means increasing "Broken" things (also known as "Touched" things.)
 
-Warning for young internet shamans:
+A complete solution has never been devised, and that's how the internet was born.
+
+Warning:
 
 **If you have a WFH partner, you have production network! Tread carefully!**
 
@@ -36,28 +40,23 @@ You should probably make a router or strongly segment between:
  and 
 - land of uptime (production) where partner can WFH safely.
 
-Do not become "A Problem" layered atop "ISP problems". Very confusing and trust
-damaging. Not good.
+Do not become "A Problem" layered atop "ISP problems".
 
-A wise network shaman will monitor and be aware, and inform proactively.
+A wise shaman will monitor, be aware, and inform proactively.
 
 Not to deflect blame.
-But to ensure stability of their realm, and to not catch eyebrow raise of doom 
-when purchasing a 20 amp breaker and 100 ft of romex when on what started as
-a gardening trip to home depot. (10 amps is just not enough ok)
+But to ensure stability of their realm. This also will prevent you from 
+catching the eyebrow raise of doom when purchasing a 20 amp breaker and
+100 ft of romex when on what started as a gardening trip to home depot.
 
-You don't need to know what I have in my lab, but it's ancient crap - I list
-this just to say you don't need to blow thousands:
-- ~~a space heater~~ Dell R610 with VMware (f u broadcom try and take my 6.7 esxi away)
-- an ancient supermicro running proxmox (you'll get there little buddy)
-- Intel NUCs, a few of em... I don't remember what they're doing. I think that one's important.
-- Mikrotiks, lots of em, they're cheap! and can run bgp how cool is that? 
+You don't need to spend thousands on a lab. My gear is ancient, and half of
+it is doing something useful. The other half is eagerly awaiting abuse.
 
-Why?
+Why do all this?
 
-I don't know, to be honest. I learn stuff. It can be satisfying to spend
-a little too long making an LED blink. I don't know why. More realistically,
-the answer is more along chasing the lows and highs of:
+I don’t know, honestly. Sometimes it’s satisfying to spend too long making an
+LED blink. Or getting a single ping to work. It feels stupid. But it’s not.
+More realistically, the answer is probably chasing the lows and highs of:
 
 > "I know nothing, none of this makes sense."
 
@@ -69,8 +68,8 @@ the answer is more along chasing the lows and highs of:
 
 > "I am dumber than pond scum."
 
-This is what makes soft, failure-fearing goblins into tough shamans that can stare
-down the uncertainty beast and laugh. You've broken worse, and fixed worse. Most importantly:
+This is what makes soft, failure-fearing folk into tough shamans that can stare
+down the uncertainty beast and laugh. You've broken better, and fixed worse. Most importantly:
 
 <div class="field-box" style="white-space:pre-line">
 you've figured out that you know how to figure it out.

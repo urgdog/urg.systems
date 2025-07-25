@@ -6,7 +6,7 @@ layout: default
 # Urg Totem: Error Say, 'Cable Not Plugged'. Humans Say, 'System Broken.'
 
 In olden days, when Urg was a young shaman, he think everyone want to know things.
-Urg likes know things, and read. Sometimes tho, ppl don't want all knowledge.
+Urg likes know things, and read. Sometimes tho, people not want all knowledge.
 Is ok- not everyone likes to know history since time started. Very helpful
 for troubleshoot, not helpful for finishing things before ale-o-clock.
 

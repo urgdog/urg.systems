@@ -10,17 +10,17 @@ which is why I do a lot of things, so I can do nothing later.
 
 One day I'll get it all sorted out and actually do nothing for real.
 
-In the meantime, I work very hard at doing nothing, so I share my knowledge:
+In the meantime:
 
 ---
-- [iptables cuz why not](iptables.md)
+- [iptables, what is it really](iptables.md)
 - [mobile crash cart in your backpack](crashcart.md)
-- [how to make error messag good](errors.md)
-- [how to b homeowner Shaman](new-home.md)
+- [how to make error message good](errors.md)
+- [how to be homeowner shaman](new-home.md)
 - [thunderdoming](td.md)
-- [win 11 be quiet](windows-stfu.md)
-- [Fixing Annoying Google Docs Behavior](googledocs.md)
-- [Downtime / Quad Size Ratio Theorem](maintenance-window-optimizing.md)
-- [Homelabbing - Self-inflicted Resilience Training](homelab.md)  
+- [win 11 privacy tweaks](windows-stfu.md)
+- [Google Docs Annoying Whitespace Newline Fix](googledocs.md)
+- [DQR Theorem](maintenance-window-optimizing.md)
+- [recursive competence](homelab.md)  
 
 
