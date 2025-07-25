@@ -1,5 +1,5 @@
 ---
-title: Windows 11 stfu
+title: Windows 11 be quiet
 date: 2025-06-02
 layout: default
 ---
