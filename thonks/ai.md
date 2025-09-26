@@ -10,7 +10,7 @@ There's a lot of AI push these days, and "what if AI takes my job?".
 We should want to stay relevant, especially in the tech
 sector where AI appears good return on velocity. Not investment. Velocity only.
 
-AI, fundamentally, is a math trick. It's taking vector math and dice rolls to
+AI (actually LLMs), fundamentally, is a math trick. It's taking vector math and dice rolls to
 generate a string of next probable words.
 
 It *feels* like intelligence, but it's really exploiting humans' inability
