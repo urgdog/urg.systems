@@ -13,6 +13,7 @@ One day I'll get it all sorted out and actually do nothing for real.
 In the meantime:
 
 ---
+- [ai is dumb](ai.md)
 - [iptables, what is it really](iptables.md)
 - [mobile crash cart in your backpack](crashcart.md)
 - [how to make error message good](errors.md)
@@ -22,5 +23,4 @@ In the meantime:
 - [Google Docs Annoying Whitespace Newline Fix](googledocs.md)
 - [DQR Theorem](maintenance-window-optimizing.md)
 - [recursive competence](homelab.md)  
-
 
