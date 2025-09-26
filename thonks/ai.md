@@ -15,9 +15,7 @@ generate a string of next probable words.
 
 It *feels* like intelligence, but it's really exploiting humans' inability
 to process massive amounts of data. Humans are essentially giant aberration
-detectors (i.e., we're really good at comparing things). We're not good at
-remembering things. (If you think you are, that's a learned skill, not
-a biological strength.) 
+detectors (i.e., we're really good at comparing things, but not massive data).
 
 Consider your local car dealership mile, running for years. How are there
 always people going in? How do they stay in business? It feels weird, right?
