@@ -4,35 +4,33 @@ layout: default
 ---
 # urg systems
 
-Things I do:
-- I think about things
-- I get annoyed they don't work good
-- I break (then sometimes fix.)
+things i do:
+- think about things
+- get annoyed they don't work good
+- break (then sometimes fix)
 
-Computer things, house things, social things,
-finance things, organizational company things, and sometimes how
+computer things, house things, social things,
+finance things, org things, and sometimes how
 none of it will really matter in a few hundred million years.
 
-But we should try anyway tho, right?
+we should try anyway tho, right?
 
-Probably.
+not trying new stuff is boring. what else are you gonna do?
 
-Because not trying new stuff is boring. What else are you gonna do?
-
-Anyway, I don't think I have all the answers. And you can find all the 
+i don't have all the answers, and you can find all the 
 answers out there anyway.
 
-Maybe one day someone will read this.
+maybe one day someone will read this.
 
-It will prolly be me because I am old and forget all the time.
-If it's not me, that's incredible.
+it will prolly be me because I am old and forget.  
+if you are not me, that's incredible.
 
-Hello, other creature.
+*Hello, other creature.*
 
 > There’s a lot of things to worry about.  
 
 ---
-- [Field Stories](/stories/) - Real stories about things that happened
-- [Thonks](/thonks/) - Some thonks can be good.
-- [About](/about/) - Why is Urg?
+- [Stories](/stories/) - stories about things
+- [Thonks](/thonks/) - some thinking can be good
+- [About](/about/) - y Urg?
 

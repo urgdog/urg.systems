@@ -71,6 +71,5 @@ More realistically, the answer is probably chasing the lows and highs of:
 This is what makes soft, failure-fearing folk into tough shamans that can stare
 down the uncertainty beast and laugh. You've broken better, and fixed worse. Most importantly:
 
-<div class="field-box" style="white-space:pre-line">
-you've figured out that you know how to figure it out.
+<div class="field-box" style="white-space:pre-line">you've figured out that you know how to figure it out.
 </div>

@@ -1,19 +1,17 @@
 ---
-title: Field Stories
+title: Stories
 layout: default
 ---
 
-# Field Stories
+# Stories
 
-I used to work in the field doing telecommunications stuff.
+I used to work in the field doing telecom stuff.
 
-Fixing stuff in the real world is fun and stressful.
-
-Then I fixed stuff in headends where little red LEDs mean a lot of scary things.
+then I fixed stuff in buildings where little red LEDs mean scary things.
 
 tho some are red because everything is fine.
 
-anyway here are some stories that happened.
+anyway here are some stories.
 
 ---
 
